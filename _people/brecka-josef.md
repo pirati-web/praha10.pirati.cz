@@ -10,7 +10,7 @@ category:
 ordpms: 2
 description: člen MS
 profession: člen MS
-#img: people/brecka-josef.jpg
+img: people/brecka-josef.jpg
 mail:
  - josef.brecka@pirati.cz
 
