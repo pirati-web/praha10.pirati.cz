@@ -3,7 +3,7 @@ layout: post
 category: blog
 title: Klientům desítkových domovů seniorů zpříjemní svátky virtuální realita
 date: '2020-12-22'
-author: Michal Kočí
+author: Petr Beneš
 image: articles/2020/2020-12-22-klientum-desitkovych-domovou-senioru-zprijemni-svatky-virtualni-realita.jpg
 tags:
   - Sociální oblast
