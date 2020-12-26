@@ -9,9 +9,9 @@ category:
   - clenove
   - zastupitele    
   - kandidat-obec 
-ordpms: 2
-description: Zastupitel MČ Praha 10
-profession: zastupitel, člen komise školské, komise majetkové a komise územního rozvoje
+ordpms: 1
+description: Předseda MS, zastupitel MČ Praha 10
+profession: Předseda MS, zastupitel, člen komise školské, komise majetkové a komise územního rozvoje
 img: people/hajek-pavel.gif
 mail:
  - pavel.hajek@pirati.cz
