@@ -9,7 +9,7 @@ category:
   - clenove
   - zastupitele    
   - kandidat-obec 
-ordpms: 3
+
 description: Zastupitel MČ&nbsp;Praha&nbsp;10
 profession: zastupitel, předseda Komise bezpečnostní. člen Komise památkové a Komise informační, pro otevřenou radnici, IT a Smart Cities (KIT-SC)
 img: people/komrska-jiri.gif
