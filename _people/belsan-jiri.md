@@ -9,8 +9,8 @@ category:
   - clenove
   - kandidat-obec
 ordpms: 2
-description: 1. místopředseda
-profession: 1. místopředseda
+description: 1.&nbsp;místopředseda&nbsp;MS
+profession: 1.&nbsp;místopředseda&nbsp;MS
 img: people/belsan-jiri.gif
 mail:
  - jiri.belsan@pirati.cz
