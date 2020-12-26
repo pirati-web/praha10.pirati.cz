@@ -8,7 +8,7 @@ category:
   - pms
   - clenove
   - kandidat-obec
-ordpms: 1
+ordpms: 2
 description: 1. místopředseda
 profession: 1. místopředseda
 img: people/belsan-jiri.gif
