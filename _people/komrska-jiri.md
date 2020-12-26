@@ -5,7 +5,6 @@ titles:
   before: Mgr.
   after:
 category:
-  - pms
   - clenove
   - zastupitele    
   - kandidat-obec 
