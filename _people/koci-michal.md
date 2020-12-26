@@ -9,7 +9,7 @@ category:
   - rada
   - zastupitele    
   - kandidat-obec 
-ordpms: 2
+ordpms: 3
 ordrada: 3
 description: Radní MČ&nbsp;Praha&nbsp;10, 2.&nbsp;místopředseda&nbsp;MS
 profession: Radní MČ&nbsp;Praha&nbsp;10 -&nbsp;Sociální a rodinná politika, zdravotnictví, bezpečnost, hazard.
