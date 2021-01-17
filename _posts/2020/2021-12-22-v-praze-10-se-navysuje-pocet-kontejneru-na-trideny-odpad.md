@@ -4,7 +4,7 @@ category: blog
 title: V Praze 10 se navyšuje počet kontejnerů na tříděný odpad, zvýšila se i četnost svozů
 date: '2021-01-14'
 author: Mediální team
-image: articles/2021/2021-12-22-v-praze-10-se-navysuje-pocet-kontejneru-na-trideny-odpad.jpg
+image: articles/2021/2021-12-22-v-praze-10-se-navysuje-pocet-kontejneru-na-trideny-odpad-1.jpg
 tags:
   - Životní prostředí
 comments: true
