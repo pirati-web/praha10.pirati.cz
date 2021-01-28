@@ -4,7 +4,7 @@ category: blog
 title: Sociální a návazné služby v Praze 10 se budou rozvíjet podle nového plánu. Do jeho realizace se může zapojit každý zájemce.
 date: '2021-01-27'
 author: Mediální team
-image: articles/2021/2021-01-27-socialni-a-navazne-sluzby-v-praze-10-se-budou-rozvijet-podle-noveho-planu.jpg
+image: articles/2021/2021-01-27-socialni-a-navazne-sluzby-v-praze-10-se-budou-rozvijet-podle-noveho-planu.png
 tags:
   - Sociální služby
 comments: true
