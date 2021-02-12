@@ -14,7 +14,7 @@ profession: zastupitel, předseda Komise bezpečnostní. člen Komise památkov�
 img: people/komrska-jiri.gif
 mail:
  - jiri.komrska@pirati.cz
-
+mob: +420 606 660 377
 profiles:
   facebook: 
   instagram: 
