@@ -6,7 +6,10 @@ date: '2021-02-26'
 author: Mediální team
 image: articles/2021/2021-02-26-hafan01.jpg
 tags:
-  - Životní prostředí
+  - Koronavirus
+  - Testování
+  - Služební psi
+  - Celní správa ČR pomáhá
 comments: true
 ---
 
@@ -23,3 +26,6 @@ Středeční návštěva Celní správy byla pro seniory, kteří mají už tém
 Kynologie Celní správy České republiky rozhodla o rozšíření aktivit psů o vyhledávání COVID-19 u lidí už vloni. V současné době je výcvik v závěrečné fázi a připravuje se první ostrá zkouška na Letišti Václava Havla.
 
 Reportáž o výcviku psů k rozeznání COVID-19  [zde](https://www.televizeseznam.cz/video/domaci-9257/sluzebni-psi-celni-spravy-uz-umi-vycmuchat-covid-19-pracovat-budou-na-letisti-64136472), tisková zpráva Celní správy  [zde](https://www.celnisprava.cz/cz/tiskove-zpravy/2020/Stranky/celnici-vycvici-psy-na-vyhledavani-onemocneni-covid-19.aspx).
+
+[Psi Celí správy pomáhají](/assets/img/articles/2021/2021-02-26-hafan02.jpg)
+[Psi Celí správy pomáhají](/assets/img/articles/2021/2021-02-26-hafan03.jpg)
