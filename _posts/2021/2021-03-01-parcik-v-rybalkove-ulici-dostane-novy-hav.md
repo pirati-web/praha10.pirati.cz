@@ -4,7 +4,7 @@ category: blog
 title: Parčík v Rybalkově ulici dostane nový háv. Bude mít jezdecké schody i „vodní koleje“
 date: '2021-03-01'
 author: Mediální team
-image: articles/2021/22021-03-01-parcik-v-rybalkove-ulici-dostane-novy-hav-1.jpg
+image: articles/2021/2021-03-01-parcik-v-rybalkove-ulici-dostane-novy-hav-1.jpg
 tags:
   - Životní prostředí
   - Veřejné prostory
@@ -20,3 +20,8 @@ Ta zdůrazňuje, že o celém konceptu nového parčíku radnice diskutovala tak
 Městská část obyvatele rovněž s předstihem upozornila na plánované kácení dvou akátů, jež jsou ve špatném zdravotním stavu. „To proběhne v průběhu března. Místo těchto stromů, které by mohly být pro okolí brzy nebezpečné, do parčíku vysadíme čtyři jerlíny japonské,“ konkretizuje místostarostka Komrsková.
 
 Revitalizace parku bude probíhat do prázdnin tohoto roku, celkové náklady budou 7 milionů korun.
+
+[Parčík](/assets/img/articles/2021/2021-03-01-parcik-v-rybalkove-ulici-dostane-novy-hav-1.jpg)
+[Parčík](/assets/img/articles/2021/2021-03-01-parcik-v-rybalkove-ulici-dostane-novy-hav-2.jpg)
+[Parčík](/assets/img/articles/2021/2021-03-01-parcik-v-rybalkove-ulici-dostane-novy-hav-3.jpg)
+[Parčík](/assets/img/articles/2021/2021-03-01-parcik-v-rybalkove-ulici-dostane-novy-hav-4.jpg)
