@@ -27,5 +27,5 @@ Kynologie Celní správy České republiky rozhodla o rozšíření aktivit psů
 
 Reportáž o výcviku psů k rozeznání COVID-19  [zde](https://www.televizeseznam.cz/video/domaci-9257/sluzebni-psi-celni-spravy-uz-umi-vycmuchat-covid-19-pracovat-budou-na-letisti-64136472), tisková zpráva Celní správy  [zde](https://www.celnisprava.cz/cz/tiskove-zpravy/2020/Stranky/celnici-vycvici-psy-na-vyhledavani-onemocneni-covid-19.aspx).
 
-[Psi Celí správy pomáhají](/assets/img/articles/2021/2021-02-26-hafan02.jpg)
-[Psi Celí správy pomáhají](/assets/img/articles/2021/2021-02-26-hafan03.jpg)
+![Psi Celí správy pomáhají](/assets/img/articles/2021/2021-02-26-hafan02.jpg)
+![Psi Celí správy pomáhají](/assets/img/articles/2021/2021-02-26-hafan03.jpg)
