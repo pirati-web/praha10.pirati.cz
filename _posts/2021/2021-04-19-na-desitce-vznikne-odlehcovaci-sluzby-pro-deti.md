@@ -4,7 +4,7 @@ category: blog
 title: Na Desítce vznikne nová odlehčovací služba pro děti s postižením a poruchou autistického spektra
 date: '2021-04-19'
 author: Mediální team
-image: articles/2021/2021-04-19-mesic-ekologicke-osvety-1.jpg
+image: articles/2021/2021-04-19-na-desitce-vznikne-odlehcovaci-sluzby-pro-deti.jpg
 tags:
   - Životní prostředí
 comments: true
