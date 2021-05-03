@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Na Desítce bude nový klub pro děti a mládež, provozovat ho bude YMCA
-date: '2021-04-19'
+date: '2021-05-03'
 author: Mediální team
 image: articles/2021/2021-05-03-na-desitce-bude-novy-klub-pro-deti-a-mladez-provozovat-ho-bude-ymca-01.jpg
 tags:
