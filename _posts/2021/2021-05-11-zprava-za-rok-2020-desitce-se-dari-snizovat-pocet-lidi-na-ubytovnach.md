@@ -4,7 +4,7 @@ category: blog
 title: 'Zpráva za rok 2020: Desítce se daří snižovat počet lidí na ubytovnách. Za dva roky o více než 20 %'
 date: '2021-05-03'
 author: Mediální team
-image: articles/2021/2021-05-11-zrava-za-rok-2020-desitce-se-dari-snizovat-pocet-lidi-na-ubytovnach.jpg
+image: articles/2021/2021-05-11-zprava-za-rok-2020-desitce-se-dari-snizovat-pocet-lidi-na-ubytovnach.jpg
 tags:
   - YMCA
   - komunitní plánování
