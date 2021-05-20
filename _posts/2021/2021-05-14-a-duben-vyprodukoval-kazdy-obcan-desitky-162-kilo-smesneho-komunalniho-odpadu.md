@@ -4,7 +4,7 @@ category: blog
 title: 'Za duben vyprodukoval každý občan Desítky 16,2 kilo směsného komunálního odpadu'
 date: '2021-05-20'
 author: Mediální team
-image: articles/2021/2021-05-11-zrava-za-rok-2020-desitce-se-dari-snizovat-pocet-lidi-na-ubytovnach.jpg
+image: articles/2021/2021-05-14-a-duben-vyprodukoval-kazdy-obcan-desitky-162-kilo-smesneho-komunalniho-odpadu.png
 tags:
   - komunální odpad
   - odpady
