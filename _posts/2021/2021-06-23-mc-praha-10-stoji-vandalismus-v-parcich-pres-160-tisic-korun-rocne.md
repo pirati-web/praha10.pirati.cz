@@ -4,7 +4,7 @@ category: blog
 title: 'MČ Praha 10 stojí vandalismus v parcích přes 160 tisíc korun ročně'
 date: '2021-06-23'
 author: Mediální team
-image: articles/2021/2021-05-28-mc-praha-10-zacne-s-rekonstrukcni-zs-v-olsinach.jpg
+image: articles/2021/2021-06-23-mc-praha-10-stoji-vandalismus-v-parcich-pres-160-tisic-korun-rocne-1.jpg
 tags:
   - rekonstrukce
   - mobiliář
