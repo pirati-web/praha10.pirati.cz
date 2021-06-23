@@ -19,3 +19,7 @@ Nelichotivým evegreenem jsou opravy poškozených vodních kaskád v Malešick�
 „Častým jevem je také poškozování knihovniček, laviček, košů nebo postřikovačů. Ať už rozbíjení, nebo posprejování. Je smutné, když musíme pravidelně investovat do oprav něčeho, co má sloužit nám všem a pár jedinců to bezdůvodně ničí. Přitom bychom mohli zbytečně vynaložené desítky tisíc korun investovat do dalšího zlepšování veřejného prostoru,” říká místostarostka Komrsková.
 
 Městská část se proto rozhodla občanům na konkrétních příkladech demonstrovat, jak vandalismus vypadá v praxi. Fotografie poničeného mobiliáře doprovozené sumou, kterou radnice ročně vynaloží na opravy, umístí na své sociální sítě i přímo do veřejného prostoru. „Chceme občany přimět, aby si naplno uvědomili finanční i estetické důsledky pro městskou část. A zároveň také ty funkční, zejména u vodních prvků jejich poškozování bohužel často vede k tomu, že je musíme dočasně vyřazovat z provozu,” vysvětluje Jana Komrsková.
+
+![1](/assets/img/articles/2021/2021-06-23-mc-praha-10-stoji-vandalismus-v-parcich-pres-160-tisic-korun-rocne-1.jpg)
+![2](/assets/img/articles/2021/2021-06-23-mc-praha-10-stoji-vandalismus-v-parcich-pres-160-tisic-korun-rocne-2.jpg)
+![3](/assets/img/articles/2021/2021-06-23-mc-praha-10-stoji-vandalismus-v-parcich-pres-160-tisic-korun-rocne-3.jpg)
