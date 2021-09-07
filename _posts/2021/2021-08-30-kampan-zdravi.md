@@ -4,7 +4,7 @@ category: blog
 title: 'MČ Praha 10 startuje velkou osvětovou kampaň na téma zdraví, součástí bude i veletrh '
 date: '2021-08-30'
 author: Mediální team 
-image: articles/2021/2021-08-03-desitka-nerovna-se-hovinka-k-jeste-cistsimu-verejnemu-prostoru-v-praze-10-pomuze-i-interaktivni-kampan.jpg
+image: articles/2021/2021-08-30-kampan-zdravi.jpg
 tags:
   - zdraví
   - osvětová kampaň
