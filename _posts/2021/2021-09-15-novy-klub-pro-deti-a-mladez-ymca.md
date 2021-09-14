@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: 'V Praze 10 funguje nový klub pro děti a mládež, provozuje ho YMCA'
-date: '2021-09-15'
+date: '2021-09-14'
 author: Mediální team 
 image: articles/2021/2021-09-15-novy-klub-pro-deti-a-mladez-ymca-1.jpg
 tags:
