@@ -12,6 +12,7 @@ ordpms: 2
 description: Zastupitel MČ Praha 10
 profession: zastupitel, předseda Návrhového výboru a Komise majetkové a nebytových prostor, člen Kontrolního výboru
 img: people/satke-david.gif
+heroImg: articles/2021/2021-05-28-mc-praha-10-zacne-s-rekonstrukcni-zs-v-olsinach.jpg
 mail:
  - david.satke@pirati.cz
 

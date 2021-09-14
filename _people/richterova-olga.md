@@ -12,6 +12,7 @@ ordpms: 2
 description: poslankyně Parlamentu ČR
 profession: poslankyně Parlamentu ČR
 img: people/richterova-olga.jpg
+heroImg: articles/2021/2021-05-28-mc-praha-10-zacne-s-rekonstrukcni-zs-v-olsinach.jpg
 mail:
  - olga.richterova@pirati.cz
 web: http://www.olgarichterova.cz

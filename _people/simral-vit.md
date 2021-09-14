@@ -13,6 +13,7 @@ profession: uvolněný člen rady pro oblast školství, sportu, vědy a podpory
 #description: radní pro oblast školství, sportu, vědy a podpory podnikání
 descvyb: člen výboru pro evropské záležitosti ZHMP
 img: people/simral-vit.jpg
+heroImg: articles/2021/2021-05-28-mc-praha-10-zacne-s-rekonstrukcni-zs-v-olsinach.jpg
 mail:
  - vit.simral@pirati.cz
 mob: +420 606 220 985 

@@ -12,6 +12,7 @@ ordpms: 2
 description: Zastupitelka MČ Praha 10
 profession: zastupitelka, členka VSZ, KBP a VKSVA, na MHMP členka Výboru pro bydlení
 img: people/lopesova-zuzana.gif
+heroImg: articles/2021/2021-05-28-mc-praha-10-zacne-s-rekonstrukcni-zs-v-olsinach.jpg
 mail:
  - freitas.zuzana@gmail.com
 
