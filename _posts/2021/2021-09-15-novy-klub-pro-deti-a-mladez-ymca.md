@@ -24,3 +24,9 @@ Nízkoprahový klub zároveň od září organizuje aktivity nejrůznějšího z
 „_YMCA už má u nás za sebou léto převážně terénní práce, během něhož o aktivitách klubu dávala občanům cíleně vědět. Maximálně jí pomůžeme, aby se na našem území velmi rychle ´zabydlela´, navázala kontakty s ostatními organizacemi a naplno se zapojila do procesu plánování sociálních a návazných služeb na našem území. Velký dík pak pochopitelně patří všem kolegům, kteří se na vzniku dětského klubu podíleli_,“ dodává radní Kočí.
 
 Po volbách 2018 jsme jako desítkoví Piráti zřízení klubu pro mládež přenesli z desítkového pirátského programu do programového prohlášení Rady MČ Praha 10. Naplnili jsme tak další bod našeho programu, s kterým předchozí vedení radnice měla mnohé potíže, o kterých jsme psali dříve  [zde](https://pirati10.cz/vybudovani-nizkoprahoveho-klubu-pro-mladez-se-ukazalo-byt-pro-koalici-prilis-vysokym-cilem/).
+
+![Obrázek 1](https://a.pirati.cz/praha10/articles/2021/2021-09-15-novy-klub-pro-deti-a-mladez-ymca-1.jpg)
+![Obrázek 2](https://a.pirati.cz/praha10/articles/2021/2021-09-15-novy-klub-pro-deti-a-mladez-ymca-2.jpg)
+![Obrázek 3](https://a.pirati.cz/praha10/articles/2021/2021-09-15-novy-klub-pro-deti-a-mladez-ymca-3.jpg)
+![Obrázek 4](https://a.pirati.cz/praha10/articles/2021/2021-09-15-novy-klub-pro-deti-a-mladez-ymca-4.jpg)
+![Obrázek 5](https://a.pirati.cz/praha10/articles/2021/2021-09-15-novy-klub-pro-deti-a-mladez-ymca-5.jpg)
