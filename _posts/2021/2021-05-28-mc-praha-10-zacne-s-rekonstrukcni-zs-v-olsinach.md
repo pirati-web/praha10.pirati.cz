@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: 'MČ Praha 10 začne s rekonstrukcí ZŠ V Olšinách, magistrát ji podpořil dotací 80 milionů korun'
-date: '2021-05-20'
+date: '2021-05-28'
 author: Mediální team
 image: articles/2021/2021-05-28-mc-praha-10-zacne-s-rekonstrukcni-zs-v-olsinach.jpg
 tags:
