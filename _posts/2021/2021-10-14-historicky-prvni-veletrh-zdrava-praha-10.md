@@ -1,7 +1,7 @@
 ---
 date: 2021-10-14
 category: blog
-title: ""
+title: 'Historicky první veletrh „Zdravá Praha 10“'
 layout: post
 author: mediální tým
 image: articles/2021-10-14-historicky-prvni-veletrh-zdrava-praha-10-1.jpg
