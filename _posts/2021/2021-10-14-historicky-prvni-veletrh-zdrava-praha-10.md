@@ -4,7 +4,7 @@ category: blog
 title: ""
 layout: post
 author: mediální tým
-image: articles/2021/2021-10-01-odvolani.jpg
+image: articles/2021-10-14-historicky-prvni-veletrh-zdrava-praha-10-1.jpg
 tags:
   - veletrh
   - zdraví
