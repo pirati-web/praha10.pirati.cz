@@ -4,7 +4,7 @@ category: blog
 title: 'MČ Praha 10 opět podpořila složky IZS na svém území. Předala jim vybavení a poskytla peníze na motivační odměny.'
 layout: post
 author: mediální tým
-image: articles/2021/2021-11-08-uklid-desate-mestske-casti-zajistovali-lide-bez-domova.jpg
+image: articles/2021/2021-11-11-mc-praha-10-opet-podporila-slozky-isz-1.jpg
 tags:
   - isz
   - podpora
