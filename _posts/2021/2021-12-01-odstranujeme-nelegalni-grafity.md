@@ -1,3 +1,12 @@
+---
+date: 2021-12-01
+category: blog
+title: 'Odstraňujeme nelegální graffiti'
+layout: post
+author: mediální tým
+image: articles/2021/2021-12-01-odstranujeme-nelegalni-grafity.jpg
+tags:
+---
 
 V září 2020 byl spuštěn nový antigraffiti program s názvem „_Praha 10 bez graffiti II_“. Nespornou výhodou oproti předchozímu programu, zděděném po předchozím vedení radnice (který „spolykal“ nepoměrně více nákladů na svou vlastní – předvolební – propagaci než na samotné čištění budov – psali jsme dříve  [zde)](https://pirati10.cz/tag/antigraffiti-program-praha-10/?fbclid=IwAR0bSyS4DVS4P1WUKEX0FWHZfmgy95F1B09xEMrdVjndNoJF3aFpGIbNEW8)  je snížená administrativní náročnost a tedy zvýšená rychlost procesu.
 
