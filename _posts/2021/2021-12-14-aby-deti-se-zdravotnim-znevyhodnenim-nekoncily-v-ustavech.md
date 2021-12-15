@@ -44,3 +44,5 @@ O dotaci je možné žádat :
 -   za 1. pololetí školního roku 2021/2022 od 1. 2. do 31. 3. 2022;
 -   za 2. pololetí školního roku 2021/2022 od 1. 7. do 30. 9. 2022.  
     Více zde:  [https://praha10.cz/dotace](https://praha10.cz/dotace?fbclid=IwAR1_9sXp4wU13_o82qCVJ7ZwH0_tpKc6-EG5asIRZMZpzSOLv5ETXAEeESY)
+    
+![https://a.pirati.cz/praha10/img/articles/2021/2021-12-14-aby-deti-se-zdravotnim-znevyhodnenim-nekoncily-v-ustavech-02.jpg]
