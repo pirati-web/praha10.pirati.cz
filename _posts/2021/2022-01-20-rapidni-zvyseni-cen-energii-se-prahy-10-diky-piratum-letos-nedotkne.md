@@ -1,7 +1,7 @@
 ---
 date: 2022-01-10
 category: blog
-title: 'PRapidní zvýšení cen energií se Prahy 10 díky Pirátům letos nedotkne'
+title: 'Rapidní zvýšení cen energií se Prahy 10 díky Pirátům letos nedotkne'
 layout: post
 author: mediální tým
 image: articles/2022/2022-01-20-rapidni-zvyseni-cen-energii-se-prahy-10-diky-piratum-letos-nedotkne.jpg
