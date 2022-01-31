@@ -4,7 +4,7 @@ category: blog
 title: 'MČ Praha 10 připravuje unikátní rekonstrukci dětského hřiště'
 layout: post
 author: mediální tým
-image: articles/2022/2022-01-20-rapidni-zvyseni-cen-energii-se-prahy-10-diky-piratum-letos-nedotkne.jpg
+image: articles/2022/2022-01-30-praha-10-pripravuje-unikatni-rekonstrukci-detskeho-hriste-1.jpg
 tags:
 ---
 
