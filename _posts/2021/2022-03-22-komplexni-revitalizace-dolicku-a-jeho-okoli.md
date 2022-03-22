@@ -4,7 +4,7 @@ category: blog
 title: 'KOMPLEXNÍ REVITALIZACE ĎOLÍČKU A JEHO OKOLÍ'
 layout: post
 author: mediální tým
-image: articles/2022/2022-02-25-novy-katalog-socialnich-a-navaznych-sluzeb-v-praze-10-pro-rok-2022.jpg
+image: articles/2022/2022-03-22-2022-03-22-komplexni-revitalizace-dolicku-a-jeho-okoli.jpg
 tags:
 ---
 
