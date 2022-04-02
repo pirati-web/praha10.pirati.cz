@@ -4,7 +4,7 @@ category: blog
 title: 'Autismus neznamená jen být jako Rain Man. V Praze 10 bude nové centrum pro lidi s poruchou autistického spektra '
 layout: post
 author: mediální tým
-image: articles/2022/2022-04-02-autismus-neznamena-jen-byt-jako-rain-man.png
+image: articles/2022/2022-03-22-2022-03-22-komplexni-revitalizace-dolicku-a-jeho-okoli.png
 tags:
 ---
 
