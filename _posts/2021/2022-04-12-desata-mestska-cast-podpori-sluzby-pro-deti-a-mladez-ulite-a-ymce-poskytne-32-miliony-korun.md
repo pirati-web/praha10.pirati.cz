@@ -4,7 +4,7 @@ category: blog
 title: 'Desátá městská část podpoří služby pro děti a mládež, Ulitě a YMCE poskytne 3,2 miliony korun'
 layout: post
 author: mediální tým
-image: articles/2022/2022-04-02-autismus-neznamena-jen-byt-jako-rain-man.png
+image: articles/2022/2022-04-12-desata-mestska-cast-podpori-sluzby-pro-deti-a-mladez-ulite-a-ymce-poskytne-32-miliony-korun.jpg
 tags:
 ---
 
