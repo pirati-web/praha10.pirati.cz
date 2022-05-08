@@ -1,5 +1,5 @@
 ---
-date: 2022-05-08
+date: 2022-05-07
 category: blog
 title: 'Nová linka "E" metra na Praze 10 – přibude stanice "Vršovická radnice"'
 layout: post
