@@ -4,7 +4,7 @@ category: blog
 title: 'ENERGIE NA DESÍTCE JSOU DÍKY PIRÁTŮM POD KONTROLOU'
 layout: post
 author: mediální tým
-image: articles/2022/2022-05-08-nova-linka-e-metra-na-praze-10-pribude-stanice-vrsovicka-radnice.jpg
+image: articles/2022/2022-05-08-nova-linka-e-metra-na-praze-10-pribude-stanice-vrsovicka-radnice.png
 tags:
 ---
 
