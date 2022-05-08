@@ -4,7 +4,7 @@ category: blog
 title: 'Nová linka "E" metra na Praze 10 – přibude stanice "Vršovická radnice"'
 layout: post
 author: mediální tým
-image: articles/2022/2022-04-21-diky-grantum-setrime-energie.jpg
+image: articles/2022/2022-05-08-nova-linka-e-metra-na-praze-10-pribude-stanice-vrsovicka-radnice.jpg
 tags:
 ---
 
