@@ -4,7 +4,7 @@ category: blog
 title: 'Praha 10 – Majetková, a.s. přebírá správu bytů'
 layout: post
 author: mediální tým
-image: articles/2022/2022-05-09-praha-10-majetkova-a-s-prebira-spravu-bytu.jpg
+image: articles/2022/2022-05-09-praha-10-majetkova-a-s-prebira-spravu-bytu.gif
 tags:
 ---
 
