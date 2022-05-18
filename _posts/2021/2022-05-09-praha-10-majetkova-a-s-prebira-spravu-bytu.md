@@ -20,3 +20,7 @@ Společnost [PRAHA 10 – Majetková, a.s.](https://www.majetkova.cz/)  jsme př
 -   „Majetkovou“ postupně opustila polovina původních zaměstnanců;
 -   vybrali jsme nového ředitele z více, než padesáti uchazečů.
 -   **Dnes je firma transparentně vedená, poctivě vydělává a je připravena na převzetí správy bytového fondu městské části.**
+
+Více, než dvouleté úspěšné úsilí, dát do pořádku městkou správní firmu PRAHA 10 – Majetková, a.s., otevřelo možnost vyřešit dlouhodobě nevyhovující situaci ve správě bytového fondu. Pro úřad to bude znamenat zefektivnění správy a lepší komunikaci, jak se to daří v dalších oblastech působnosti městské firmy.Pro současné nájemníky bude změna prakticky znamenat jen jiný kontakt na technika a správní firmu, které budou uvedeny v každém domě. 
+
+Čísla účtů pro placení nájemného a záloh, stejně jako variabilní symboly a užití SIPO zůstávají beze změny.
