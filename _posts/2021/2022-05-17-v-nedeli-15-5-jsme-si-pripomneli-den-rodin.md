@@ -4,7 +4,7 @@ category: blog
 title: 'V neděli 15.5. jsme si připomněli Den rodin'
 layout: post
 author: mediální tým
-image: articles/2022/2022-05-09-praha-10-majetkova-a-s-prebira-spravu-bytu.gif
+image: articles/2022/2022-05-17-v-nedeli-15-5-jsme-si-pripomneli-den-rodin.jpg
 tags:
 ---
 
