@@ -1,5 +1,5 @@
 ---
-date: 2022-05-17
+date: 2022-05-25
 category: blog
 title: 'ZAČALA REKONSTRUKCE NOVÉ STRAŠNICKÉ ŠKOLY. OTEVŘE SE ZA DVA ROKY'
 layout: post
