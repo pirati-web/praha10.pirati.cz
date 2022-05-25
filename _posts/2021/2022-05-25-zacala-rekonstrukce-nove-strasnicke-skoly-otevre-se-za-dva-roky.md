@@ -1,7 +1,7 @@
 ---
 date: 2022-05-17
 category: blog
-title: 'V neděli 15.5. jsme si připomněli Den rodin'
+title: 'ZAČALA REKONSTRUKCE NOVÉ STRAŠNICKÉ ŠKOLY. OTEVŘE SE ZA DVA ROKY'
 layout: post
 author: mediální tým
 image: articles/2022/2022-05-25-zacala-rekonstrukce-nove-strasnicke-skoly-otevre-se-za-dva-roky.jpg
