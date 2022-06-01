@@ -9,7 +9,7 @@ tags:
 ---
 
 
-Kdo si hraje, nezlobí! Dětské hřiště podněcovat také tvořivost, estetické cítění a to, aby si z něj děti odnášely dobrý pocit. Prostě, aby se tam cítili příjemně děti, ale i rodiče.
+Kdo si hraje, nezlobí! Dětské hřiště má podněcovat také tvořivost, estetické cítění a to, aby si z něj děti odnášely dobrý pocit. Prostě, aby se tam cítili příjemně děti, ale i rodiče.
 
 Druhého května začala MČ Praha 10 s rozsáhlou rekonstrukcí dětského hřiště Malinová. Modernizace plochy pro rodiče s dětmi vyjde na 3,7 miliony korun a zahrnuje jak instalování nových herních prvků, tak opravy a úpravy povrchů. Jedná se o jednu z největších rekonstrukcí veřejně přístupných hřišť, kterou naše radnice za poslední roky realizovala.
 
