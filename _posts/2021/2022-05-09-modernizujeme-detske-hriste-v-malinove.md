@@ -8,12 +8,11 @@ image: articles/2022/2022-05-09-modernizujeme-detske-hriste-v-malinove.jpg
 tags:
 ---
 
-Magistrát hl. m. Prahy dnes vydal skvělou zprávu pro všechny obyvatele Prahy 10. Nová linka metra, trasa E, údajně povede přímo ze sídla radnice MČ Praha 10 do centra metropole, do stanice metra Staroměstská.
 
-Při plánování trasy D se totiž zjistilo, že za posledních 28 let, se mnoha generacím desítkových politiků podařilo vybudovat mimořádný tunel mezi vršovickou radnicí a magistrátem. Tunel je prý takových rozměrů, že zbývá pouze dokopat posledních pár metrů, aby dosáhl do stanice metra Staroměstská a osadit koleje. Podle odhadu Magistrátu se vše potřebné s přehledem zvládne do říjnových voleb.
+Kdo si hraje, nezlobí! Dětské hřiště podněcovat také tvořivost, estetické cítění a to, aby si z něj děti odnášely dobrý pocit. Prostě, aby se tam cítili příjemně děti, ale i rodiče.
 
-Experti tvrdí, že když vše půjde podle plánu, svezou se první cestující novou linkou E již příští rok. Jelikož na tunel významně přispěli právě daňoví rezidenti Prahy 10, budou mít dopravu na lince zdarma. Praxe tak jasně ukazuje, že volit zkušené tuneláře se prostě vyplácí.
+Druhého května začala MČ Praha 10 s rozsáhlou rekonstrukcí dětského hřiště Malinová. Modernizace plochy pro rodiče s dětmi vyjde na 3,7 miliony korun a zahrnuje jak instalování nových herních prvků, tak opravy a úpravy povrchů. Jedná se o jednu z největších rekonstrukcí veřejně přístupných hřišť, kterou naše radnice za poslední roky realizovala.
 
-Pusťte nás na ně s humorem!
+Důvodem stavebních prací je zhoršující se technický stav herního vybavení, ale i snaha o vylepšení a kultivaci celého prostoru. V něm návštěvníci nově najdou řadu moderních herních prvků, jako jsou nejrůznější druhy prolézaček či houpaček, chybět nebude populární skluzavka a samozřejmě pískoviště. Na místo přibydou nové zatravněné plochy, sportovní povrchy budou opravené a zpevněné chodníčky rozšířené. Pro odpočinek či malý piknik budou sloužit lavičky se stolky.
 
-Krásného Apríla všem přejí Piráti Prahy 10
+Hřiště bude nadále sloužit především menším, ale na své si přijdou i větší děti. Rekonstrukce bude dokončená v průběhu letošního července.
