@@ -1,5 +1,5 @@
 ---
-date: 2022-05-09
+date: 2022-06-01
 category: blog
 title: 'SENIORSKÁ OBÁLKA – Lepší být připraven než překvapen!'
 layout: post
