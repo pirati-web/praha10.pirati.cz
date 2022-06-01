@@ -4,7 +4,7 @@ category: blog
 title: 'SENIORSKÁ OBÁLKA – Lepší být připraven než překvapen!'
 layout: post
 author: mediální tým
-image: articles/2022/2022-06-01-seniorska-obalka-lepsi-byt-pripraven-nez-prekvapen.jpg
+image: articles/2022/2022-06-01-seniorska-obalka-lepsi-byt-pripraven-nez-prekvapen.png
 tags:
 ---
 
