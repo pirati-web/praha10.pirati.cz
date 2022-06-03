@@ -18,3 +18,8 @@ Vývoj robota v zájmu rozvoje asistivních technologií v sociálních službá
 
 CSOP robota získala do svých služeb díky sponzorskému příspěvku. Děkujeme!
 
+![https://a.pirati.cz/praha10/img/articles/2022/2022-06-03-robin-nas-novy-socialni-pracovnik-1.jpg](https://a.pirati.cz/praha10/img/articles/2022/2022-06-03-robin-nas-novy-socialni-pracovnik-1.jpg)
+
+![https://a.pirati.cz/praha10/img/articles/2022/2022-06-03-robin-nas-novy-socialni-pracovnik-2.jpg](https://a.pirati.cz/praha10/img/articles/2022/2022-06-03-robin-nas-novy-socialni-pracovnik-2.jpg)
+
+![https://a.pirati.cz/praha10/img/articles/2022/2022-06-03-robin-nas-novy-socialni-pracovnik-3.jpg](https://a.pirati.cz/praha10/img/articles/2022/2022-06-03-robin-nas-novy-socialni-pracovnik-3.jpg)
