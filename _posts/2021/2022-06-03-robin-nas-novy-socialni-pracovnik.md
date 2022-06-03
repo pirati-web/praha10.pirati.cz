@@ -17,3 +17,7 @@ Umí spoustu věcí, kterými ulehčí mnohdy přetíženému personálu a záro
 Vývoj robota v zájmu rozvoje asistivních technologií v sociálních službách trval okolo roku a probíhal ve spolupráci společnosti HIGH TECH PARK a ČVUT.
 
 CSOP robota získala do svých služeb díky sponzorskému příspěvku. Děkujeme!
+
+[](/img/articles/2022/2022-06-03-robin-nas-novy-socialni-pracovnik-1.jpg)
+[](/img/articles/2022/2022-06-03-robin-nas-novy-socialni-pracovnik-2.jpg)
+[](/img/articles/2022/2022-06-03-robin-nas-novy-socialni-pracovnik-3.jpg)
