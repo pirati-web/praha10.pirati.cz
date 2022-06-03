@@ -8,7 +8,7 @@ image: articles/2022/2022-06-03-robin-nas-novy-socialni-pracovnik.jpg
 tags:
 ---
 
-**ROBIN –** měří něco přes metr, připomíná kluka v džínových lacláčích na koloběžce.
+**ROBIN** – měří něco přes metr, připomíná kluka v džínových lacláčích na koloběžce.
 
 V  [Centru sociální a ošetřovatelské pomoci](https://www.csop10.cz/hlavni-stranka.aspx)  (CSOP) bude pracovat do konce letošního roku na rozličných místech.
 
@@ -18,6 +18,3 @@ Vývoj robota v zájmu rozvoje asistivních technologií v sociálních službá
 
 CSOP robota získala do svých služeb díky sponzorskému příspěvku. Děkujeme!
 
-[](/img/articles/2022/2022-06-03-robin-nas-novy-socialni-pracovnik-1.jpg)
-[](/img/articles/2022/2022-06-03-robin-nas-novy-socialni-pracovnik-2.jpg)
-[](/img/articles/2022/2022-06-03-robin-nas-novy-socialni-pracovnik-3.jpg)
