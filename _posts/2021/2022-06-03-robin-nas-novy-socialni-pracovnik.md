@@ -4,7 +4,7 @@ category: blog
 title: 'ROBIN – náš nový sociální pracovník'
 layout: post
 author: mediální tým
-image: articles/2022/2022-06-03-robin-nas-novy-socialni-pracovnik.png
+image: articles/2022/2022-06-03-robin-nas-novy-socialni-pracovnik.jpg
 tags:
 ---
 
