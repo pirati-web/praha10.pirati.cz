@@ -4,7 +4,7 @@ category: blog
 title: 'Otevíráme „novou Malinovou“! Rekonstrukcí a úpravami projde ještě 7 dalších dětských hřišť'
 layout: post
 author: mediální tým
-image: articles/2022/2022-06-10-soutez-o-trzni-misto-u-oc-cil.jpg
+image: articles/2022/2022-06-25-otevirame-novou-malinovou-rekonstrukci-a-upravami-projde-jeste-7-dalsich-detskych-hrist-1.jpg
 tags:
 ---
 
