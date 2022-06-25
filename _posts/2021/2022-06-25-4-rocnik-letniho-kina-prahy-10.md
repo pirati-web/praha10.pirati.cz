@@ -8,7 +8,7 @@ image: articles/2022/2022-06-25-4-rocnik-letniho-kina-prahy-10-1.jpg
 tags:
 ---
 
-**I letos se lze těšít na letní prázdninovou atmosféru s komediálními a pohádkovými filmy!  ![🙂](https://s.w.org/images/core/emoji/11.2.0/svg/1f642.svg)** 
+**I letos se lze těšít na letní prázdninovou atmosféru s komediálními a pohádkovými filmy!
 
 Všechna představení se odehrají v Malešickém parku. Promítání začíná vždy po setmění.
 
