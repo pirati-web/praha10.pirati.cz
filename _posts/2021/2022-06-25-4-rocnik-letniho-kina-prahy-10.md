@@ -1,10 +1,10 @@
 ---
-date: 2022-06-26
+date: 2022-06-25
 category: blog
 title: '4. ročník letního kina Prahy 10'
 layout: post
 author: mediální tým
-image: articles/2022/2022-06-26-4-rocnik-letniho-kina-prahy-10-1.jpg
+image: articles/2022/2022-06-25-4-rocnik-letniho-kina-prahy-10-1.jpg
 tags:
 ---
 
