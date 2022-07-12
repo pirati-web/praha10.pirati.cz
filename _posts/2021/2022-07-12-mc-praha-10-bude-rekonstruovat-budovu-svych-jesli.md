@@ -9,8 +9,8 @@ tags:
 ---
 
 
-###### **Desátá městská část připravuje rozsáhlou rekonstrukci budovy v Jakutské ulici. Ta byla postavená v 60. letech minulého století a od té doby slouží dětem předškolního věku – původně zde byly jesle, v posledních letech  [v objektu fungují dětské skupiny](https://csop10.cz/nase-sluzby/ostatni-sluzby/stredisko-sluzeb-pro-deti-a-rodice-detske-skupiny/jak-postupovat-v-pripade-zajmu.aspx).  
-Nyní Desítka chystá kompletní přestavbu budovy, Rada dnes schválila vypsání veřejné zakázky na její rekonstrukci.**
+**Desátá městská část připravuje rozsáhlou rekonstrukci budovy v Jakutské ulici. Ta byla postavená v 60. letech minulého století a od té doby slouží dětem předškolního věku – původně zde byly jesle, v posledních letech  [v objektu fungují dětské skupiny](https://csop10.cz/nase-sluzby/ostatni-sluzby/stredisko-sluzeb-pro-deti-a-rodice-detske-skupiny/jak-postupovat-v-pripade-zajmu.aspx).**  
+**Nyní Desítka chystá kompletní přestavbu budovy, Rada dnes schválila vypsání veřejné zakázky na její rekonstrukci.****
 
 Dětské skupiny provozuje Centrum sociální a ošetřovatelské pomoci v Praze 10, příspěvková organizace radnice a navštěvuje je 55 dětí od jednoho roku do 3 let. Tři dětské skupiny v Jakutské jsou k dispozici jak na celoměsíční docházku, tak na příležitostné hodinové hlídání.
 
