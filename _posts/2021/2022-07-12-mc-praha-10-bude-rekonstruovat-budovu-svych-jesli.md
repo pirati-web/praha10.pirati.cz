@@ -4,7 +4,7 @@ category: blog
 title: 'MČ Praha 10 bude rekonstruovat budovu svých jeslí'
 layout: post
 author: mediální tým
-image: articles/2022/2022-07-26-zasadni-pripominky-mc-praha-10-k-navrhu-metropolitniho-planu-byly-zastupitelstvem-jednoznacne-schvaleny.jpg
+image: articles/2022/2022-07-12-mc-praha-10-bude-rekonstruovat-budovu-svych-jesli.jpg
 tags:
 ---
 
