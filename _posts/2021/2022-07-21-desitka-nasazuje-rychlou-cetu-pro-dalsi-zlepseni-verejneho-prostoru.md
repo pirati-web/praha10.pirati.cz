@@ -4,7 +4,7 @@ category: blog
 title: 'Desítka nasazuje Rychlou Četu pro další zlepšení veřejného prostoru'
 layout: post
 author: mediální tým
-image: articles/2022/2022-07-21-desitka-nasazuje-rychlou-cetu-pro-dalsi-zlepseni-verejneho-prostoru.jpg
+image: articles/2022/2022-07-21-desitka-nasazuje-rychlou-cetu-pro-dalsi-zlepseni-verejneho-prostoru.png
 tags:
 ---
 
