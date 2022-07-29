@@ -4,7 +4,7 @@ category: blog
 title: 'MČ Praha 10 ušetří miliony, ve svých školách a školkách bude optimalizovat spotřebu energií'
 layout: post
 author: mediální tým
-image: articles/2022/2022-07-2í-mc-praha-10-usetri-miliony-ve-svych-skolach-a-skolkach-bude-optimalizovat-spotrebu-energii.jpg
+image: articles/2022/2022-07-29-mc-praha-10-usetri-miliony-ve-svych-skolach-a-skolkach-bude-optimalizovat-spotrebu-energii.jpg
 tags:
 ---
 
