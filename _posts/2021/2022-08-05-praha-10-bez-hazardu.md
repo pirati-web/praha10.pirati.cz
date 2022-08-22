@@ -1,7 +1,7 @@
 ---
 date: 2022-07-21
 category: blog
-title: 'MČ Praha 10 ušetří miliony, ve svých školách a školkách bude optimalizovat spotřebu energií'
+title: 'Praha 10 bez hazardu'
 layout: post
 author: mediální tým
 image: articles/2022/2022-08-05-praha-10-bez-hazardu.jpg
