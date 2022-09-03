@@ -4,7 +4,7 @@ category: blog
 title: 'Do voleb jdeme s číslem 3!'
 layout: post
 author: mediální tým
-image: articles/2022/2022-09-02-do-voleb-jdeme-s-cislem-3.jpg
+image: articles/2022/2022-09-02-do-voleb-jdeme-s-cislem-3_2.jpg
 tags:
 ---
 
