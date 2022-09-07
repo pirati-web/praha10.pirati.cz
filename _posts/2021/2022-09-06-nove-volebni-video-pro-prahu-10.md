@@ -4,7 +4,7 @@ category: blog
 title: 'Volební spot o zhodnocení naší práce za čtyři roky na radnici'
 layout: post
 author: mediální tým
-image: articles/2022/2022-09-02-do-voleb-jdeme-s-cislem-3_2.jpg
+image: articles/2022/2022-09-06-nove-volebni-video-pro-prahu-10.png
 tags:
 ---
 
