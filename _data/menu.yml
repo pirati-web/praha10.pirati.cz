@@ -17,6 +17,11 @@ main:
     name: Lidé
   - link: /program/
     name: Program
+    submenu:
+      - name: Komunální volby 2022
+        link: /program/
+      - name: Plnění programu 2018
+        link:  /program/index-2018.html
   - link: /piratske-listy/2020-leto/
     name: Pirátské listy    
   - link: /kontakt/
