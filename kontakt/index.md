@@ -1,4 +1,4 @@
-ce---
+---
 layout: contacts
 title: Kontaktní informace
 description: Pirátská strana v Praze 10 je otevřená a ráda přivítá nové členy, dobrovolníky a odpoví na vaše dotazy
