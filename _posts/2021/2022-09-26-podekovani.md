@@ -4,7 +4,7 @@ category: blog
 title: 'Poděkování'
 layout: post
 author: mediální tým
-image: articles/2022/2022-09-06-nove-volebni-video-pro-prahu-10.png
+image: articles/2022/2022-09-26-podekovani.png
 tags:
 ---
 
