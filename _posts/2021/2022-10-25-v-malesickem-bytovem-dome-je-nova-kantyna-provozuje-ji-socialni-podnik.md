@@ -15,7 +15,10 @@ tags:
 
 **„**_Naším cílem bylo najít ´podnikatele s přesahem´. Tedy nájemníka, který bude poskytovat kvalitní služby, a zároveň vykonávat prospěšnou činnost pro občany. Těší mě, že se nám přihlásila dobrou praxí prověřená společnost, jejíž koncept přesně splnil naše očekávání,_**“**  říká náš místostarosta Petr Beneš, který má v gesci bytové a nebytové prostory.
 
+![https://a.pirati.cz/crop/1200x675/praha10/img/articles/2022/2022-10-25-kantyna-2.jpg](https://a.pirati.cz/crop/1200x675/praha10/img/articles/2022/2022-10-25-kantyna-2.jpg)
+
 Smlouva o nájmu prostor sloužících k podnikání byla uzavřená na dobu neurčitou, se sjednaným nájemným ve výši 200 Kč/m²/rok (tzv. „v zájmu MČ Praha 10“ – tj. za nájemné určené pro orgány státní správy, veřejnoprávní instituce, vzdělávací zařízení, neziskové organizace apod.).
+
 
 K uzavření této smlouvy došlo ještě v minulém roce, od té doby probíhaly přípravy na otevření kantýny.
 
@@ -24,7 +27,7 @@ K uzavření této smlouvy došlo ještě v minulém roce, od té doby probíhal
 „_Pomáhat osobám s hendikepem uplatnit se na trhu práce považuji za nesmírně důležité. Jejich zařazení na pracovním trhu má prokazatelný pozitivní efekt jak pro ně samotné – po finanční, ale i například po psychické stránce –, tak pro většinovou společnost. Je opravdu motivační vidět, jak tito ´hrdinové každodennosti´ překonávají bariéry, které si my ostatní dokážeme stěží představit_**,“**  zdůrazňuje náš radní pro sociální oblast a zdravotnictví Michal Kočí.
 
 
-![https://a.pirati.cz/crop/1200x675/praha10/img/articles/2022/2022-10-25-kantyna-2.jpg](https://a.pirati.cz/crop/1200x675/praha10/img/articles/2022/2022-10-25-kantyna-2.jpg)
+
 
 ![https://a.pirati.cz/crop/1200x675/praha10/img/articles/2022/2022-10-25-kantyna-3.jpg](https://a.pirati.cz/crop/1200x675/praha10/img/articles/2022/2022-10-25-kantyna-3.jpg)
 ----------
