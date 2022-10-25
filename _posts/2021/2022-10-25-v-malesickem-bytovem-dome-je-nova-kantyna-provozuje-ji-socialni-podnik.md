@@ -24,7 +24,7 @@ K uzavření této smlouvy došlo ještě v minulém roce, od té doby probíhal
 „_Pomáhat osobám s hendikepem uplatnit se na trhu práce považuji za nesmírně důležité. Jejich zařazení na pracovním trhu má prokazatelný pozitivní efekt jak pro ně samotné – po finanční, ale i například po psychické stránce –, tak pro většinovou společnost. Je opravdu motivační vidět, jak tito ´hrdinové každodennosti´ překonávají bariéry, které si my ostatní dokážeme stěží představit_**,“**  zdůrazňuje náš radní pro sociální oblast a zdravotnictví Michal Kočí.
 
 
-!(https://a.pirati.cz/crop/1200x675/praha10/img/articles/2022/2022-10-25-kantyna-2.jpg)[https://a.pirati.cz/crop/1200x675/praha10/img/articles/2022/2022-10-25-kantyna-2.jpg]
+![https://a.pirati.cz/crop/1200x675/praha10/img/articles/2022/2022-10-25-kantyna-2.jpg](https://a.pirati.cz/crop/1200x675/praha10/img/articles/2022/2022-10-25-kantyna-2.jpg)
 
 ![https://a.pirati.cz/crop/1200x675/praha10/img/articles/2022/2022-10-25-kantyna-3.jpg](https://a.pirati.cz/crop/1200x675/praha10/img/articles/2022/2022-10-25-kantyna-3.jpg)
 ----------
