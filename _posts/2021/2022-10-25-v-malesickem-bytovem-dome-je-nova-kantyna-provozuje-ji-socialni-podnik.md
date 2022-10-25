@@ -26,7 +26,7 @@ K uzavření této smlouvy došlo ještě v minulém roce, od té doby probíhal
 
 !(https://a.pirati.cz/crop/1200x675/praha10/img/articles/2022/2022-10-25-kantyna-2.jpg)[https://a.pirati.cz/crop/1200x675/praha10/img/articles/2022/2022-10-25-kantyna-2.jpg]
 
-!(https://a.pirati.cz/crop/1200x675/praha10/img/articles/2022/2022-10-25-kantyna-3.jpg)[https://a.pirati.cz/crop/1200x675/praha10/img/articles/2022/2022-10-25-kantyna-3.jpg]
+![https://a.pirati.cz/crop/1200x675/praha10/img/articles/2022/2022-10-25-kantyna-3.jpg](https://a.pirati.cz/crop/1200x675/praha10/img/articles/2022/2022-10-25-kantyna-3.jpg)
 ----------
 
 ###### **O Startujeme**
