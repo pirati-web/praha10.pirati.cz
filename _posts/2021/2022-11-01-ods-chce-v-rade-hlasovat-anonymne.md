@@ -4,7 +4,7 @@ category: blog
 title: 'ODS chce v radě hlasovat anonymně! Protikorupční návrh neměl šanci'
 layout: post
 author: mediální tým
-image: articles/2022/2022-10-25-kantyna.jpg
+image: articles/2022/2022-11-01-ods-chce-v-rade-hlasovat-anonymne.jpg
 tags:
 ---
 
