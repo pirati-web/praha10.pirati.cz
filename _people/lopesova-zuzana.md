@@ -9,8 +9,8 @@ category:
   - zastupitele    
   - kandidat-obec 
 ordpms: 2
-description: Zastupitelka MČ Praha 10
-profession: zastupitelka, členka VSZ, KBP a VKSVA, na MHMP členka Výboru pro bydlení
+description: Zastupitelka MČ Praha 10, zastupitelka ZHMP
+profession: Zastupitelka MČ Praha 10, zastupitelka ZHMP
 img: people/lopesova-zuzana.gif
 heroImg: articles/2021/2021-05-28-mc-praha-10-zacne-s-rekonstrukcni-zs-v-olsinach.jpg
 mail:
