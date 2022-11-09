@@ -6,13 +6,12 @@ titles:
   after:
 category:
   - clenove
-  - rada
   - zastupitele    
   - kandidat-obec 
 ordpms: 2
 ordrada: 1
 description: 1. místostarostka MČ Praha 10
-profession: 1. místostarostka - Životní prostředí, městské akciové společnosti, sport a volnočasové aktivity., zastupitelka ZHMP
+profession: zastupitelka MČ Praha 10, zastupitelka ZHMP
 img: people/komrskova-jana.jpg
 heroImg: articles/2021/2021-05-28-mc-praha-10-zacne-s-rekonstrukcni-zs-v-olsinach.jpg
 mail:
