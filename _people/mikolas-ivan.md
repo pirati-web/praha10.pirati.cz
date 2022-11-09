@@ -9,8 +9,8 @@ category:
   - zastupitele    
   - kandidat-obec 
 ordpms: 2
-description: Úvolněný předseda Výboru pro strategické invstice a veřejné zakázky 
-profession: úvolněný předseda Výboru pro strategické invstice a veřejné zakázky 
+description: Zastupitel MČ Praha 10
+profession: Zastupitel MČ Praha 10
 img: people/mikolas-ivan.gif
 heroImg: articles/2021/2021-05-28-mc-praha-10-zacne-s-rekonstrukcni-zs-v-olsinach.jpg
 mail:
