@@ -6,10 +6,9 @@ titles:
   after:
 category:
   - priznivci
-  - zastupitele    
   - kandidat-obec 
 ordpms: 2
-description: Zastupitel Prahy 10
+description: 
 profession: 
 img: people/kos-miroslav.gif
 heroImg: articles/2021/2021-05-28-mc-praha-10-zacne-s-rekonstrukcni-zs-v-olsinach.jpg
