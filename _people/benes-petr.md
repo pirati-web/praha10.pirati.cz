@@ -5,7 +5,6 @@ titles:
   before: Ing.
   after:
 category:
-  - rada
   - clenove
   - kandidat-obec
 ordpms: 2
