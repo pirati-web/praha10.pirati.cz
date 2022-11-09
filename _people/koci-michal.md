@@ -10,8 +10,8 @@ category:
   - kandidat-obec 
 ordpms: 3
 ordrada: 3
-description: 2.&nbsp;místopředseda&nbsp;MS
-profession: 
+description: zastupitel MČ Praha 10
+profession: zastupitel MČ Praha 10
 img: people/koci-michal.gif
 heroImg: articles/2021/2021-05-28-mc-praha-10-zacne-s-rekonstrukcni-zs-v-olsinach.jpg
 mail:
