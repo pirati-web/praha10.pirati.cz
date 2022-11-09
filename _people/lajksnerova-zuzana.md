@@ -7,7 +7,7 @@ titles:
 category:
   - pms
   - clenove
-  - zastuptele
+  - zastupitele
   - kandidat-obec
 ordpms: 2
 description: 1.&nbsp;místopředseda&nbsp;MS
