@@ -4,7 +4,7 @@ category: blog
 title: 'Ustavující zastupitelstvo MČ Praha 10: „Jako v mateřské školce'
 layout: post
 author: mediální tým
-image: articles/2022/2022-11-13-ustavujici-zastupitelstvo-mc-praha-10.png
+image: articles/2022/2022-11-13-ustavujici-zastupitelstvo-mc-praha-10.jpg
 tags:
 ---
 
