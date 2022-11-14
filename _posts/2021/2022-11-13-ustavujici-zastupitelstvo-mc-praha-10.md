@@ -54,3 +54,5 @@ tags:
 -   O novou reprezentaci Prahy 10 v blížících se těžkých časech nemusíme mít strach – ze svých 26 mandátů si 14 uvolnilo.
 
 Domů jsme odcházeli po půl čtvrté ráno. Ale nás neutahají! Nadále  [#Drzimekurz](https://www.facebook.com/hashtag/drzimekurz?__eep__=6&__cft__[0]=AZWUumDPaL7XxOB45igpFldVnMm26SU3OGz_IJwSqCxnsRN1w37u1GwEK6t8kpPMvZHrs_ybK5H_KCtYrx8Hwhbc662aRgNqbzJwcPgVOfrHS7yLKVrV6OWKwUW5WRqwtSuI-n-sQtVxLcIuHtvr-iNNESHHSLDR3sECB2HfQ3-U2Q&__tn__=*NK-R)!
+
+Link na info o odměňování zastupitelů: [https://www.poradnaproobce.cz/komunalni-volby-2022/zastupitel/odmenovani-zastupitelu](https://www.poradnaproobce.cz/komunalni-volby-2022/zastupitel/odmenovani-zastupitelu).
