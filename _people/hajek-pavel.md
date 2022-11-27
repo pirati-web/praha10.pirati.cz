@@ -5,10 +5,8 @@ titles:
   before: Ing.
   after:
 category:
-  - pms
   - clenove   
   - kandidat-obec 
-ordpms: 1
 description: Předseda MS
 profession: Předseda MS
 img: people/hajek-pavel.gif
