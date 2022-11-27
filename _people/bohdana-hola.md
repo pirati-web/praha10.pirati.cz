@@ -10,7 +10,7 @@ category:
 ordpms: 2 
 description: 1. místopředsedkyně MS
 profession: 1. místopředsedkyně MS
-#img: people/hola-bohdana.jpg
+img: people/hola-bohdana.jpg
 heroImg: articles/2021/2021-05-28-mc-praha-10-zacne-s-rekonstrukcni-zs-v-olsinach.jpg
 mail:
  - bohdana.hola@pirati.cz
