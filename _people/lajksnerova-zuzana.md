@@ -10,8 +10,8 @@ category:
   - zastupitele
   - kandidat-obec
 ordpms: 3
-description: 2.&nbsp;místopředseda&nbsp;MS
-profession: 2.&nbsp;místopředseda&nbsp;MS, zastupitelka MČ Praha 10
+description: 2. MÍSTOPŘEDSEDKYNĚ MS
+profession: 2. MÍSTOPŘEDSEDKYNĚ MS, zastupitelka MČ Praha 10
 img: people/lajksnerova-zuzana.png
 heroImg: articles/2021/2021-05-28-mc-praha-10-zacne-s-rekonstrukcni-zs-v-olsinach.jpg
 mail:
