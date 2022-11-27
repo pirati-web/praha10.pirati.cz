@@ -5,9 +5,9 @@ titles:
   before: 
   after:
 category:
-  - pms
-  - clenove
-  - kandidat-obec
+  - pms  
+  - kandidat-obec 
+ordpms: 1 
 description: 1. místopředsedkyně MS
 profession: 1. místopředsedkyně MS
 #img: people/
