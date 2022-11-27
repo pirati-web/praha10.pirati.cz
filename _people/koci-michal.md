@@ -8,10 +8,9 @@ category:
   - pms
   - zastupitele    
   - kandidat-obec 
-ordpms: 3
-ordrada: 3
-description: zastupitel MČ Praha 10
-profession: zastupitel MČ Praha 10
+ordpms: 1
+description: zastupitel MČ Praha 10, předseda místního sdružení P10
+profession: zastupitel MČ Praha 10, předseda místního sdružení P10
 img: people/koci-michal.gif
 heroImg: articles/2021/2021-05-28-mc-praha-10-zacne-s-rekonstrukcni-zs-v-olsinach.jpg
 mail:
