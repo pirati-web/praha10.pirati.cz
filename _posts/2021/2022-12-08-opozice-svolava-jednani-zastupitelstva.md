@@ -1,7 +1,7 @@
 ---
 date: 2022-12-08
 category: blog
-title: 'Opozice svolává jednání zastupitelstva. Praha 10 stále nemá předsedu kontrolního výboru a míří do provizoria'
+title: 'Opozice svolává jednání zastupitelstva, Praha&nbsp;10 stále nemá předsedu kontrolního výboru a míří do provizoria'
 layout: post
 author: mediální tým
 image: articles/2022/2022-12-08-opozice-svolava-jednani-zastupitelstva.jpg
