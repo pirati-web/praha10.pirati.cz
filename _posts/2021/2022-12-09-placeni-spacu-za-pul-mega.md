@@ -4,7 +4,7 @@ category: blog
 title: 'Platit dva spáče za půl mega z veřejných peněz?! Nemožné? S novou desítkovou koalicí je leccos možné'
 layout: post
 author: mediální tým
-image: articles/2022/2022-12-09-placeni-spacu-za-pul-mega.jpg
+image: articles/2022/2022-12-09-placeni-spacu-za-pul-mega.png
 tags:
 ---
 
