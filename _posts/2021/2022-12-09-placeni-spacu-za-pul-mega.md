@@ -23,5 +23,5 @@ Uvedený půl milion může tedy být:
 
 Link na předmětnou objednávku:  [https://smlouvy.gov.cz/smlouva/22643233](https://smlouvy.gov.cz/smlouva/22643233?fbclid=IwAR2E3PLpzOgl9NxGOOFHl6oYDcEdiVmrZNqcX-VrhaI33vDo4LGcwhzW9h8)
 
-<video class="wp-video-shortcode" id="video-7075-1" width="640" height="368" preload="metadata" controls="controls"><source type="video/mp4" src="https://pirati10.cz/wp-content/uploads/2022/12/Ostraha.mp4?_=1" /><a href="https://pirati10.cz/wp-content/uploads/2022/12/Ostraha.mp4">https://pirati10.cz/wp-content/uploads/2022/12/Ostraha.mp4</a></video></div>
+<video class="wp-video-shortcode" id="video-7075-1" width="640" height="368" preload="metadata" controls="controls"><source type="video/mp4" src="https://pirati10.cz/wp-content/uploads/2022/12/Ostraha.mp4?_=1" /><a href="https://pirati10.cz/wp-content/uploads/2022/12/Ostraha.mp4">https://pirati10.cz/wp-content/uploads/2022/12/Ostraha.mp4</a></video>
 
