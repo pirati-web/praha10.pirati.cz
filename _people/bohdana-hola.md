@@ -6,6 +6,7 @@ titles:
   after:
 category:
   - pms  
+  - clenove
   - kandidat-obec 
 ordpms: 2 
 description: 1. místopředsedkyně MS
