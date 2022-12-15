@@ -7,7 +7,8 @@ titles:
 category:
   - clenove
   - zastupitele    
-  - kandidat-obec 
+  - kandidat-obec
+  - mhmp
 ordpms: 2
 ordrada: 1
 description: zastupitelka MČ Praha 10, zastupitelka ZHMP
