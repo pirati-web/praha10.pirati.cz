@@ -6,7 +6,8 @@ titles:
   after:
 category:
   - pms
-  - zastupitele    
+  - zastupitele
+  - clenove    
   - kandidat-obec 
 ordpms: 1
 description: zastupitel MČ Praha 10, PŘEDSEDA MS PRAHA 10
