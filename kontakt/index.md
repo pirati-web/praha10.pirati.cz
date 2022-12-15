@@ -5,7 +5,7 @@ description: Pirátská strana v Praze 10 je otevřená a ráda přivítá nové
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 noresidence: yes
 contactPersons:
-  - hajek.pavel
+  - koci.michal
 ---
  <h1>Přidejte se k nám</h1>
 
