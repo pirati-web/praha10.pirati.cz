@@ -7,7 +7,8 @@ titles:
 category:
   - clenove
   - zastupitele    
-  - kandidat-obec 
+  - kandidat-obec
+  - mhmp 
 description: Zastupitelka MČ Praha 10, zastupitelka ZHMP
 profession: Zastupitelka MČ Praha 10, zastupitelka ZHMP
 img: people/lopesova-zuzana.gif
