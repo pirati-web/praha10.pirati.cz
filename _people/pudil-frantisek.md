@@ -13,7 +13,6 @@ descvyb:
 img: people/pudil-frantisek.jpg
 heroImg: articles/2021/2021-05-28-mc-praha-10-zacne-s-rekonstrukcni-zs-v-olsinach.jpg
 mail:
- - frantisek.pudil@pirati.cz
  - faun1@seznam.cz
 mob: 
 profiles:
