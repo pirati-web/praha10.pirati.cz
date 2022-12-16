@@ -6,6 +6,7 @@ titles:
   after: Ph.D. et Ph.D.
 category:
   - clenove
+  - mhmp
 ordpms: 2
 description: Uvolněný člen rady MHMP
 profession: uvolněný člen rady pro oblast školství, sportu, vědy a podpory podnikání ma MHMP
