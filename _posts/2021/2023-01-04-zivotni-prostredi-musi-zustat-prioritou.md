@@ -4,7 +4,7 @@ category: blog
 title: 'Životní prostředí musí zůstat prioritou'
 layout: post
 author: mediální tým
-image: articles/2022/2023-01-04-zivotni-prostredi-musi-zustat-prioritou.png
+image: articles/2023/2023-01-04-zivotni-prostredi-musi-zustat-prioritou.png
 tags:
 ---
 
