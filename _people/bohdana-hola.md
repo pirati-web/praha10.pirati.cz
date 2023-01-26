@@ -5,7 +5,8 @@ titles:
   before: 
   after:
 category:
-  - pms  
+  - pms
+  - zastupitele   
   - clenove
   - kandidat-obec 
 ordpms: 2 
