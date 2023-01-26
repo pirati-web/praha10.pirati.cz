@@ -4,7 +4,7 @@ category: blog
 title: 'Změna v pirátském zastupitelském klubu na Praze 10: Zuzanu Freitas Lopesovou nahradí Bohdana Holá'
 layout: post
 author: mediální tým
-image: articles/2023/2023-01-26-zmena-v-piratskem-zastupitelskem-klubu.png
+image: articles/2023/2023-01-26-zmena-v-piratskem-zastupitelskem-klubu.jpg
 tags:
 ---
 
