@@ -5,8 +5,7 @@ titles:
   before: Mgr. 
   after:
 category:
-  - clenove
-  - zastupitele    
+  - clenove 
   - kandidat-obec
   - mhmp 
 description: Zastupitelka MČ Praha 10, zastupitelka ZHMP
