@@ -9,7 +9,7 @@ tags:
 ---
 
 ###### Praha 10 dál nemá předsedu kontrolního výboru! Do hry se vrací Radmila Kleslová (ANO)!  
-Koalice starosty Martin Valovič, starosta Prahy 10 (Společně pro Prahu10/ ODS) dál potlačuje opozici!  ![😪](https://s.w.org/images/core/emoji/11.2.0/svg/1f62a.svg)
+Koalice starosty Martin Valovič, starosta Prahy 10 (Společně pro Prahu10/ ODS) dál potlačuje opozici!  😪
 
 Zastupitelstvo započaté v pondělí 30.1. o 13 hodině a končící v zárodku nového dne o druhé hodině ranní, bylo opět pro silné žaludky. Bohužel se na Prahu 10 vrátila atmosféra z kmotrovských dob, kdy Prahu 10 řídil zpovzdálí známý pražský šíbr  [Tomáš Hrdlička](https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Hrdli%C4%8Dka_(politik)).
 
@@ -29,13 +29,13 @@ Tentokrát už ale koalice Desítková ODS, TOP 09 – Praha 10 a Koalice Vlasta
 
 -   Tím Desítková fraška nekončila. Ze 7 členu bylo potřeba zvolit uvolněného předsedu.
 
-![❌](https://s.w.org/images/core/emoji/11.2.0/svg/274c.svg)  Oproti všem zvyklostem, prosadila koalice starosty Martina Valoviče  **tajné hlasování**! Následovala tři kola tajné volby, aby nakonec nejvíce hlasů (18 !!!) získala právě Radmila Kleslová. Ovšem ani to nestačilo na zvolení. Potřeba bylo 23hlasů.
+❌  Oproti všem zvyklostem, prosadila koalice starosty Martina Valoviče  **tajné hlasování**! Následovala tři kola tajné volby, aby nakonec nejvíce hlasů (18 !!!) získala právě Radmila Kleslová. Ovšem ani to nestačilo na zvolení. Potřeba bylo 23hlasů.
 
-Podle hlasovacího řádu se měla volba opakovat. Starosta toto nerespektoval s tím, že tam není řečeno kdy se má opakovat  ![🙈](https://s.w.org/images/core/emoji/11.2.0/svg/1f648.svg). Následně ohlásil další jednání zastupitelstva až na 17. dubna  ![😯](https://s.w.org/images/core/emoji/11.2.0/svg/1f62f.svg)![‼️](https://s.w.org/images/core/emoji/11.2.0/svg/203c.svg)  Praha 10 tedy dál nemá řádně zvoleného předsedu kontrolního výboru, dál dochází k potlačování opozice.. Fráze o kultivaci politické kultury zůstávají pouhými frázemi.
+Podle hlasovacího řádu se měla volba opakovat. Starosta toto nerespektoval s tím, že tam není řečeno kdy se má opakovat  🙈. Následně ohlásil další jednání zastupitelstva až na 17. dubna  😯‼️  Praha 10 tedy dál nemá řádně zvoleného předsedu kontrolního výboru, dál dochází k potlačování opozice.. Fráze o kultivaci politické kultury zůstávají pouhými frázemi.
 
-Ukazuje se, že nová koalice je rozhádaná hned od samotného začátku a nedokáží se shodnout ani na tom, kdo je bude kontrolovat. Standardní přitom je, že předsedu kontrolního výboru má nejsilnější opoziční klub a do personální nominace se nemluví. V Praze 10 to bohužel neplatí, sem se vrací ty nejhorší politické manýry  ![😪](https://s.w.org/images/core/emoji/11.2.0/svg/1f62a.svg)!
+Ukazuje se, že nová koalice je rozhádaná hned od samotného začátku a nedokáží se shodnout ani na tom, kdo je bude kontrolovat. Standardní přitom je, že předsedu kontrolního výboru má nejsilnější opoziční klub a do personální nominace se nemluví. V Praze 10 to bohužel neplatí, sem se vrací ty nejhorší politické manýry  😪!
 
-![👍](https://static.xx.fbcdn.net/images/emoji.php/v9/tfc/1/16/1f44d.png)Uznání za pondělní zastupitelstvo patří Renatě Chmelové z koalice Vlasta. Té se před volbou kontrolního výboru udělalo „nevolno“ a opustila jednání.
+👍 Uznání za pondělní zastupitelstvo patří Renatě Chmelové z koalice Vlasta. Té se před volbou kontrolního výboru udělalo „nevolno“ a opustila jednání.
 
 ###### **2. Předvolební blamáž Společně pro Prahu 10**
 
@@ -59,7 +59,7 @@ U mnoha materiálů bylo znát, že měly být předloženy na prosincové jedn�
 
 Většina jednání byla pochopitelně věnována rozpočtu MČ P10 pro letošní rok. Po několikahodinové diskusi, ve které jsme se snažili upozornit na fatální chyby v návrhu rozpočtu obsažené, navrhovali jejich opravu či alespoň vysvětlení stavu, zhodnotila radní pro finance, Olga Koumarová (Společně pro P10/dříve ODS), tuto diskusi za zcela neproduktivní. Na náš návrh ke stažení návrhu rozpočtu a jeho přepracování nereflektovala.
 
-![👉](https://s.w.org/images/core/emoji/11.2.0/svg/1f449.svg)Příprava rozpočtu a jeho projednávání stojí za samostatný text, který připravujeme. A to nejen pro závažnost tématu, ale i letošní věru neotřelé pojetí jeho příprav – nejprve radou schválený návrh rozpočtu vyvěsíme na úřední desku, až pak jej, v čase, kdy jej již nelze nijak měnit, „projednáme“ ve výborech.
+👉 Příprava rozpočtu a jeho projednávání stojí za samostatný text, který připravujeme. A to nejen pro závažnost tématu, ale i letošní věru neotřelé pojetí jeho příprav – nejprve radou schválený návrh rozpočtu vyvěsíme na úřední desku, až pak jej, v čase, kdy jej již nelze nijak měnit, „projednáme“ ve výborech.
 
 Vyjádření místostarosty Tomáše Peka (Společně pro P10/TOP09) lze shrnout do lakonické zkratky, „vlastně je jedno, co tam napíšeme, protože situace se mění v čase.“
 
