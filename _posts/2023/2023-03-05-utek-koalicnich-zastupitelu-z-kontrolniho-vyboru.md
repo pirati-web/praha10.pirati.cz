@@ -4,7 +4,7 @@ category: blog
 title: 'Útěk koaličních zastupitelů z kontrolního výboru'
 layout: post
 author: mediální tým
-image: articles/2023/2023-03-05-utek-koalicnich-zastupitelu-z-kontrolniho-vyboru.jpg
+image: articles/2023/2023-03-05-utek-koalicnich-zastupitelu-z-kontrolniho-vyboru.png
 tags:
 ---
 
