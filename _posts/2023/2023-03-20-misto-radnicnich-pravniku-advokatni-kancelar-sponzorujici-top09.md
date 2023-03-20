@@ -4,7 +4,7 @@ category: blog
 title: 'Místo radničních právníků advokátní kancelář sponzorující TOP09'
 layout: post
 author: mediální tým
-image: articles/2023/2023-03-20-misto-radnicnich-pravniku-advokatni-kancelar-sponzorujici-top09.png
+image: articles/2023/2023-03-20-misto-radnicnich-pravniku-advokatni-kancelar-sponzorujici-top09.jpg
 tags:
 ---
 
