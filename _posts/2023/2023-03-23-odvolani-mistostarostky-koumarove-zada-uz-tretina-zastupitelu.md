@@ -6,7 +6,7 @@ layout: post
 author: mediální tým
 image: articles/2023/2023-03-23-odvolani-mistostarostky-koumarove-zada-uz-tretina-zastupitelu.md.jpg
 tags:
-
+---
 
 ###### **_Opoziční zastupitelé MČ Praha 10 žádají svolání zastupitelstva. Chtějí řešit nezákonné přisvojení si pravomocí předsedy kontrolního výboru Adamem Šilarem (KDU-ČSL) i jeho porušování usnesení zastupitelstva. Na programu je také kumulace uvolněných funkcí místostarosty Tomáše Peka (TOP 09) či manipulace s rozpočtem místostarostkou Olgou Koumarovou (ODS)._**
 
