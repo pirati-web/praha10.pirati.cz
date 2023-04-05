@@ -4,7 +4,7 @@ category: blog
 title: 'Odvolání radní Koumarové žádá už třetina zastupitelů'
 layout: post
 author: mediální tým
-image: articles/2023/2023-03-23-odvolani-mistostarostky-koumarove-zada-uz-tretina-zastupitelu.png
+image: articles/2023/2023-03-23-odvolani-mistostarostky-koumarove-zada-uz-tretina-zastupitelu.jpg
 tags:
 ---
 
