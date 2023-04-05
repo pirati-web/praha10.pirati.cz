@@ -4,7 +4,7 @@ category: blog
 title: 'Zastupitelstvo: „To odporuje zdravému rozumu“'
 layout: post
 author: mediální tým
-image: articles/2023/2023-04-05-zastupitelstvo-to-odporuje-zdravemu-rozumu.png
+image: articles/2023/2023-04-05-zastupitelstvo-to-odporuje-zdravemu-rozumu.jpg
 tags:
 ---
 
