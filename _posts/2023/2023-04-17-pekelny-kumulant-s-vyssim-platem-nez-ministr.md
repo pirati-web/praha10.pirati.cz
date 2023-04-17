@@ -4,7 +4,7 @@ category: blog
 title: 'PEKelný kumulant s vyšším platem než ministr'
 layout: post
 author: mediální tým
-image: articles/2023/2023-04-17-pekelny-kumulant-s-vyssim-platem-nez-ministr.png
+image: articles/2023/_2023-04-17-pekelny-kumulant-s-vyssim-platem-nez-ministr.png
 tags:
 ---
 
