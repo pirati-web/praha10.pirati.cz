@@ -8,8 +8,7 @@ image: articles/2023/2023-05-04-obri-kseft-s-radnici.jpg
 tags:
 ---
 
-###### **Radnice Prahy 10 se stěhuje do soukromého nájmu téměř za půl miliardy.  
-Nemá p****eníze na rekonstrukci vlastní budovy, a tak je návrat úřadu do Vršovic v nedohlednu.**  
+**Radnice Prahy 10 se stěhuje do soukromého nájmu téměř za půl miliardy. Nemá peníze na rekonstrukci vlastní budovy, a tak je návrat úřadu do Vršovic v nedohlednu.**  
 
 -   Tak zásadní krok, jakým je stěhování radnice, odsouhlasila Rada MČ na svém mimořádném jednání 13. dubna 2023. Našeho  [zástupce na jednání nepustila](https://www.facebook.com/photo?fbid=544843977833178&set=a.525911949726381)  a na naši výzvu, aby o takto zásadním kroku rozhodovalo zastupitelstvo vůbec nezareagovala.
 -   Radní nedokáží zajistit finanční prostředky na rekonstrukci a přitom schválili nájemní smlouvu až za 450 mil. Kč.
