@@ -6,11 +6,10 @@ titles:
   after: Ph.D. et Ph.D.
 category:
   - clenove
-  - mhmp
 ordpms: 2
-description: Uvolněný člen rady MHMP
-profession: uvolněný člen rady pro oblast školství, sportu, vědy a podpory podnikání ma MHMP
-#description: radní pro oblast školství, sportu, vědy a podpory podnikání
+description: 
+profession: 
+#description: 
 descvyb: člen výboru pro evropské záležitosti ZHMP
 img: people/simral-vit.jpg
 heroImg: articles/2021/2021-05-28-mc-praha-10-zacne-s-rekonstrukcni-zs-v-olsinach.jpg
