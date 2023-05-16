@@ -5,7 +5,7 @@ titles:
   before: 
   after:
 category:
-  - priznivci
+  - clenove
 
 description: 
 profession: 
