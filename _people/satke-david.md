@@ -15,7 +15,7 @@ img: people/satke-david.gif
 heroImg: articles/2021/2021-05-28-mc-praha-10-zacne-s-rekonstrukcni-zs-v-olsinach.jpg
 mail:
  - david.satke@pirati.cz
-
+mob: +420 776 695 226
 profiles:
   facebook:
   instagram: 
