@@ -16,6 +16,7 @@ img: people/benes-petr.gif
 heroImg: articles/2021/2021-05-28-mc-praha-10-zacne-s-rekonstrukcni-zs-v-olsinach.jpg
 mail:
  - petr.benes@pirati.cz
+mob: +420 736 603 957
 profiles:
   facebook: 
   instagram: 
