@@ -16,8 +16,7 @@ img: people/koci-michal.gif
 heroImg: articles/2021/2021-05-28-mc-praha-10-zacne-s-rekonstrukcni-zs-v-olsinach.jpg
 mail:
  - michal.koci@pirati.cz
-mobile:
-  - +420 735 045 046
+mob: +420 735 045 046
 profiles:
   facebook: 
   instagram: 
