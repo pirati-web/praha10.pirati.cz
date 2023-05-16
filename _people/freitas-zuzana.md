@@ -14,7 +14,7 @@ img: people/lopesova-zuzana.gif
 heroImg: articles/2021/2021-05-28-mc-praha-10-zacne-s-rekonstrukcni-zs-v-olsinach.jpg
 mail:
  - freitas.zuzana@gmail.com
-
+mob: +420 776 278 860
 profiles:
   facebook: 
   instagram: 
