@@ -4,7 +4,7 @@ category: blog
 title: 'Proč utrácet tisíce, když lze utratit miliony?'
 layout: post
 author: mediální tým
-image: articles/2023/2023-08-11-roc-utracet-tisice-kdyz-lze-utratit-miliony.jpg
+image: articles/2023/2023-08-11-roc-utracet-tisice-kdyz-lze-utratit-miliony.png
 tags:
 ---
 
