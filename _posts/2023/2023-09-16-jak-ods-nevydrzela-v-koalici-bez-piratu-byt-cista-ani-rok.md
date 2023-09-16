@@ -1,7 +1,7 @@
 ---
-date: 2023-08-22
+date: 2023-09-16
 category: blog
-title: 'DVA MILIONY Z PRAHY 10 PRO SPOLUPRACOVNÍKA HLUBUČKA Z DOZIMETRU'
+title: 'Místo pevné ceny za stavbu školky, možná „spropitné“ pro Hrdličku'
 layout: post
 author: mediální tým
 image: articles/2023/2023-09-16-misto-pevne-ceny-za-stavbu-skolky-mozna-spropitne-pro-hrdlicku.jpg
