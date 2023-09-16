@@ -1,7 +1,7 @@
 ---
 date: 2023-08-22
 category: blog
-title: 'DVA MILIONY Z PRAHY 10 PRO SPOLUPRACOVNÍKA HLUBUČKA Z DOZIMETRU'
+title: 'Jak ODS nevydržela v koalici bez Pirátů být čistá ani rok'
 layout: post
 author: mediální tým
 image: articles/2023/2023-09-16-misto-pevne-ceny-za-stavbu-skolky-mozna-spropitne-pro-hrdlicku.png
