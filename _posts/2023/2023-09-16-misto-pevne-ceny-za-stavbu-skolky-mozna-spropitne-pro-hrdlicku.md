@@ -4,7 +4,7 @@ category: blog
 title: 'Místo pevné ceny za stavbu školky, možná „spropitné“ pro Hrdličku'
 layout: post
 author: mediální tým
-image: articles/2023/2023-09-16-misto-pevne-ceny-za-stavbu-skolky-mozna-spropitne-pro-hrdlicku.png
+image: articles/2023/2023-09-16-misto-pevne-ceny-za-stavbu-skolky-mozna-spropitne-pro-hrdlicku.jpg
 tags:
 ---
 
