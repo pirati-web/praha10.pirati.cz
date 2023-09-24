@@ -1,5 +1,5 @@
 ---
-date: 2023-0-24
+date: 2023-09-24
 category: blog
 title: 'NECHCEME NOVÉ DVĚ VĚŽE U OC KVĚT!'
 layout: post
