@@ -1,63 +1,58 @@
 ---
-date: 2023-09-29
+date: 2023-10-10
 category: blog
-title: 'Jaké to bylo na zářijovém zastupitelstvu?'
+title: 'PETICE za obnovení dotací na pobyty dětí na školách v přírodě a lyžařských kurzech'
 layout: post
 author: mediální tým
-image: articles/2023/2023-09-29-jake-to-bylo-na-zarijovem-zastupitelstvu.jpg
+image: articles/2023/2023-10-10-petice-za-obnoveni-dotaci-na-pobyty-deti-na-skolach-v-prirode-a-lyzarskych-kurzech.jpg
 tags:
 ---
 
-###### **Dlouhé, asertivní, překvapivé a nakonec přeci jen ne beznadějné.**
 
--   Stěžejním tématem zářijového jednání byl informační bod k  **předimenzovanému záměru výstavby u OC Květ**, který byl díky petiční akci, pod kterou se sešlo  **více jak 1000 podpisů,**  narychlo starostou Valovičem (ODS) na program navržen.
--   Bod se projednával více než čtyři hodiny.
--   Svůj nesouhlasný postoj vyjádřilo kolem 20 občanů.
--   Náš zastupitel Petr Beneš na program jednání navrhl bod deklarující nesouhlas městské části s plánem investora. Prezentoval také petici proti záměru, kterou podle něj podpořilo přes 1000 lidí. „_Žádají jenom to, aby politici plnili svoje sliby a nepovolili předimenzovanou výstavbu na místě obchodního centra Květ_,“ řekl.
--   Přesto většina zastupitelů navržený NESOUHLAS nepodpořila (viz foto).
+## [PETICE za obnovení dotací na pobyty dětí na školách v přírodě a lyžařských kurzech](https://pirati10.cz/petice-za-obnoveni-dotaci-na-pobyty-deti-na-skolach-v-prirode-a-lyzarskych-kurzech/)
 
-###### Podařily se  **dílčí úspěchy**:
+-   [0 COMMENTS](https://pirati10.cz/petice-za-obnoveni-dotaci-na-pobyty-deti-na-skolach-v-prirode-a-lyzarskych-kurzech/#respond)/
+-   6. 10. 2023
 
--   Pan Valovič slíbil zřídit  **platformu pro jednání s developerem.**  Na uvedené platformě budou s developerem jednat občané a zástupci radnice.
--   Dále pan Valovič přislíbil, že  **i další fáze výstavby OC Květ budou předloženy na jednání zastupitelstva**.
--   Radní Milan Maršálek (VLASTAN) přislíbil **zveřejnit mapu s připravovanými developerskými záměry**  v Praze 10.
--   Způsob projednání záměru výstavby se stalo inspirací pro další občany
+###### **PETICE** **za obnovení dotací na pobyty dětí na školách v přírodě a lyžařských kurzech**
 
-Další postup bude i nadále koordinován s místním spolkem [Bezpečný květ](https://www.facebook.com/bezpecnykvet?__cft__[0]=AZUQr1g9v6vzzuMDNAuMdksK9eKFIzPAd6v4wDVnhiY-dLUaOQrCd-X6gD3O49nrKojls8PhGlMkOeYbADgQMRSoqdDJlYi9vgT7l6FGoTcsd7Qejrpc71Qm4FJRTNuvGTmzINajD1e3E946l8GZ6h115ZjX-jVl1SBkNEhMZGfEj_jk7M5gv6mqvFowDaCpWjk&__tn__=-]K-R).
+dle čl. 18 Listiny základních práv a svobod a zákona č. 85/1990 Sb. o právu petičním
 
-###### **Co se dělo na jednání dál?**
+My, níže podepsaní občané, prostřednictvím této petice žádáme změnu rozhodnutí současného vedení MČ Praha 10 o zrušení dotací na pobyty žáků ZŠ na školách v přírodě a lyžařských kurzech na Horském hotelu v Janských lázních v Krkonoších.
 
-[Byla mj. projednáno](https://praha10.cz/volene-organy/zastupitelstvo-mc/videozaznamy-jednani):
+Koalice ODS + TOP 09 + VLASTA dotace na školy v přírodě i lyžařské výcviky jednomyslně  **[zrušila](https://usneseni.praha10.cz/usneseni/usneseni/2070)**. Dopad zrušení dotací na děti (nejen) ze sociálně slabších rodin je významný. S rodiči uvedený krok nikdo z radnice nekonzultoval.
 
--   činnost současné rady za období 28. 11. 2022 – 30. 6. 2023. Zaznělo mnoho otázek z naší strany, velmi málo odpovědí ze strany druhé. Ptali jsme se zcela nepřekvapivě na rozhodčí smlouvu (arbitráž) s konsorciem firem pana lobbisty Tomáše Hrdličky, jelikož snaha paní radní pro finance Koumarové  [**odklonit tímto směrem 16 mil.**](https://pirati10.cz/jak-ods-nevydrzela-v-koalici-bez-piratu-byt-cista-ani-rok/) z obecní kasy je asertivní a dlouhodobá. I na tomto jednání zastupitelstva jsme proto několikrát navrhli  **odvolání paní radní Koumarové**.  
-    Ptali jsme se rovněž na proces stěhování, získávání finančních prostředků na rekonstrukci budovy ÚMČ Praha 10, zrušené dotace na školy v přírodě a lyžařské pobyty.  **Navrhli jsme usnesení, které dotace na školy v přírodě a lyžáky obnovuje, byli jsme však přehlasováni.**
+Nově v průměru uhradí rodiče o 460 Kč za žáka a den víc. Za týdenní pobyt tedy min. o 3220 Kč víc!
 
-Zásadní informací k tomuto bodu je, že **ekonomická analýza, jak naložit se současnou budovou radnice, bude hotova nejpozději do konce listopadu**. Z ní vyplyne, zda se z budovy radnice stane či nestane „dům duchů“.  
+**Pro mnoho rodin se stává účast dětí na pobytu nedostupná.**
 
--   projednání o hospodaření MČ Praha 10 k 30. 6. 2023 se dá shrnout lakonicky: neinvestuje se, přesto se schodek v rozpočtu stále prohlubuje, příjmy mizí, dotace se nečerpají, jelikož se dotační žádosti nepodávají (vč. těch na rekonstrukci radnice). I proto jsme během jednání několikrát navrhli  **odvolání paní radní Koumarové**.
--   nové Zásady hospodaření s nebytovými prostory svěřenými MČ Praha 10. Zde je patrně největší efekt v tom, že se schválil  **nárůst nájmů pro organizace**  „v zájmu obce“ (rodinná centra, skautské klubovny, sousedské kluby, divadla, spolky atd.)  **o 150%**.
--   Koncepce rodinné politiky MČ Praha 10 pro období 2024 – 2023. Pokud byste očekávali, že v dokumentu naleznete vymezení pojmu „Rodina“, pak budete zklamání. Není tam, jelikož to prý není potřeba. Pokud byste v něm hledali aktuální údaje, třeba demografické, pak budete zklamáni rovněž.  
-    Vzdor výše uvedenému navýšení nájemného, v červnu zrušeným dotacím na školy v přírodě a lyžařské kurzy, omezení dostupnosti (bezbariérových) poštovních služeb, bezskrupulózními naslouchání zájmům developerů, má koncepce s rodinami velké plány.  
-    Efekt práce pro rodiny zjistíme při příštím hodnocení práce této rady za půl roku, byť nikdo z radních na pirátský dotaz, zda se samostatnou kapitolou věnovanou naplňování rodinné koncepce počítá, nezareagoval. Natož kladně.  
-    K obnově dotací na školy v přírodě a lyžáky jsme v zájmu rodin (dětí) radu MČ opakovaně vyzvali.
--   Návrh na poskytnutí finančních prostředků formou individuální dotace z rozpočtu MČ Praha 10 pro ADVERTE, s.r.o. a Ústředna s.r.o.
+Od roku 2008 až do letoška mohli školáci z Prahy 10 trávit školu v přírodě nebo lyžák v Horském hotelu v Janských Lázních a to za příznivou cenu. Hotel totiž městská část za tímto účelem koupila a pobyty dětí v něm dotovala. Systém obsazování hotelu je férový, termíny se “točí” tak, aby se vystřídali a vešli všichni.
 
-Radní nám nebyli schopni vysvětlit, proč  **nebylo standardně vypsáno II. kolo dotačního řízení**, do kterého by se mohly přihlásit všechny relevantní subjekty, proč byly vybráni právě uvedená dvě divadla, když nota bene jedno uvádí, že má trvale vysokou návštěvnost kolem 85%, proč se nepodpořila oblast (amatérského) sportu, kdo navrhl výše dotací (180 tis. a 600 tis.). Navrhovali jsme podmínit přidělení dotace Ústředně s.r.o. s podmínkou přijmutí opatření omezujících rušení nočního klidu, ale ani tento návrh neprošel.
+Důvody zrušení podpory pobytů, které koalice uvádí, jsou buď zcela liché či řešitelné. Např. špatné počasí na jaře a na podzim, režim turnusu “pátek – pátek” či pobytové skupiny od 40 osob.
 
--   Skutečně pozitivní zprávou je, že na základě dlouhodobého pirátské zájmu o rozvoj paliativní péče se během podzimu chystá uzavření memoranda mezi MČ Praha a FNKV. Snad se uzavření memoranda skutečně podaří a snahy z uplynulého volebního období se zúročí. Tato hluboce lidská oblast, týkající se nejen klientů, rodinných příslušníků, ale i zdravotnického personálu si zaslouží pozornost.
--   Závěrem jsme projednali Strategický plán udržitelného rozvoje MČ Praha 10 pro období 2020 – 2030 a plnění kritérií metody MA21 a přípravě na postup MČ Praha 10 do kategorie A v roce 2024.  
-    I přes opakované dotazy, zda  **deklarované zapojování veřejnosti do stěžejních rozhodovacích procesů v čase, kdy se záměry mohou ještě měnit,**  znamená, že se již nebude opakovat případ OC Květ, kdy veřejnost je (kulantně řečeno) zaskočena předimenzovanou změnou původního záměru, jsme se  **jednoznačné odpovědi od radního Maršálka nedočkali**.
+Do hotelu MČ Praha 10 investovala významné finanční prostředky, jeho nevyužívání postrádá smysl a neslučuje se s jednáním řádného hospodáře.
 
-Bod interpelace zastupitelů měl obligátní komickou podobu, kdy se koaliční zastupitelé předem připravenými dotazy tázali „svých“ radních.
+Pobyty představují pro děti nejen vzdělávací a sportovní přínos, ale také podporují rozvoj jejich dovedností, zdraví a sociálního vnímání.
 
-###### **Přesto se nám podařilo položit dotazy** **na:**
+**Vzhledem k výše uvedeným důvodům žádáme, aby současné vedení Prahy 10 přehodnotilo své rozhodnutí a MČ Praha 10 dotace na pobyty dětí obnovila v původní výši.**
 
--   **rekultivaci Malešického zámečku**, resp. celého areálu (jak probíhá jednání s MHMP),
--   zakázku ve výši 2 mil. Kč na  [**PR kampaň od šíbra napojeného na causu Dozimetr**](https://pirati10.cz/dva-miliony-z-prahy-10-pro-spolupracovnika-hlubucka-z-dozimetru/) – proč MČ Praha 10 neshledává informace v médiích o vazbách na trestně stíhané osoby jako důvod pro výpověď smlouvy, proč poptávkové řízení nebylo zveřejněno na profilu zadavatele, aby se dosáhlo vyšší konkurence, tj. nižší ceny, proč byly osloveny předem vybrané firmy,
--   proč si do arbitrážního řízení vybrala MČ Praha 10 vybrala zástupce, který  **neuspěl v cause tunelu Blanka**,
--   jak bylo naloženo  [s podklady od Pirátů](https://pirati10.cz/wp-content/uploads/2023/08/Prezentace-PP-Praha-10.pdf), které si vyžádali od České pošty, s.p. v zájmu  **obnovení dostupnosti poštovních služeb**  za k 30. 6. 2023 zrušené tři pošty,
--   proč MČ Praha 10 nevyužívá rozličné zejména evropské **dotační tituly**.
+**Zároveň žádáme, aby záležitost „Obnovení dotací na pobyty dětí na Horském hotelu v Janských Lázních“, byla projednána na nejbližším jednání zastupitelstva MČ Praha 10.**
 
-Po obdržení odpovědí je zveřejníme.
+Zastupovat petiční výbor při jednání se státními orgány je oprávněn: Mgr. David Satke.
 
-Před druhou hodinou ranní jsme se rozešli k domovům.
+###### **Petiční výbor:**
+
+Bobalová Silvia, DiS, Charkovská 22, TČ: 797 859 303,  [silvia.bobalova@gmail.com](mailto:silvia.bobalova@gmail.com)  
+Hlavínová Lucia, Bělocerkevská 1009/11, TČ: 737 666 861,  [hlavinova@email.cz](mailto:hlavinova@email.cz)  
+Ing. Petr Beneš, Nad Vodovodem 3480/2a, TČ: 736 603 957,  [petr.benes@praha10.cz](mailto:petr.benes@praha10.cz)  
+Mgr. Michal Kočí, Pod Strání 22, Praha 10, TČ: 735 045 046,  [michal.koci@praha10.cz](mailto:michal.koci@praha10.cz)  
+Ing. František Král, Žitomírská 38, Praha 10, TČ: 724 424 409,  [fkral@seznam.cz](mailto:fkral@seznam.cz)  
+Mgr. David Satke, Vršovická 842/35, Praha 10, TČ: 776 695 226,  [david.satke@praha10.cz](mailto:david.satke@praha10.cz)
+
+###### **Petice ke stažení: [PETICE_ŠvP_a_lyzarske_kurzy.docx](https://pirati10.cz/wp-content/uploads/2023/10/PETICE_SvP_a_lyzarske_kurzy.docx.pdf)**.
+
+Na převzetí vyplněných, resp. podepsaných petičních archů se ochotně individuálně domluvíme, viz kontaktní údaje výše.
+
+![Zdroj: rodiče žáků ZŠ z Prahy 10](https://pirati10.cz/wp-content/uploads/2023/10/Lyzak-814x1024.jpg)
+
+Zdroj: rodiče žáků ZŠ z Prahy 10
