@@ -8,14 +8,6 @@ image: articles/2023/2023-10-10-petice-za-obnoveni-dotaci-na-pobyty-deti-na-skol
 tags:
 ---
 
-
-## [PETICE za obnovení dotací na pobyty dětí na školách v přírodě a lyžařských kurzech](https://pirati10.cz/petice-za-obnoveni-dotaci-na-pobyty-deti-na-skolach-v-prirode-a-lyzarskych-kurzech/)
-
--   [0 COMMENTS](https://pirati10.cz/petice-za-obnoveni-dotaci-na-pobyty-deti-na-skolach-v-prirode-a-lyzarskych-kurzech/#respond)/
--   6. 10. 2023
-
-###### **PETICE** **za obnovení dotací na pobyty dětí na školách v přírodě a lyžařských kurzech**
-
 dle čl. 18 Listiny základních práv a svobod a zákona č. 85/1990 Sb. o právu petičním
 
 My, níže podepsaní občané, prostřednictvím této petice žádáme změnu rozhodnutí současného vedení MČ Praha 10 o zrušení dotací na pobyty žáků ZŠ na školách v přírodě a lyžařských kurzech na Horském hotelu v Janských lázních v Krkonoších.
