@@ -4,7 +4,7 @@ category: blog
 title: 'PETICE za obnovení dotací na pobyty dětí na školách v přírodě a lyžařských kurzech'
 layout: post
 author: mediální tým
-image: articles/2023/2023-10-10-petice-za-obnoveni-dotaci-na-pobyty-deti-na-skolach-v-prirode-a-lyzarskych-kurzech.jpg
+image: articles/2023/2023-10-16-mistni-piratske-listy-pro-prahu-10.png
 tags:
 ---
 
