@@ -8,43 +8,28 @@ image: articles/2023/2023-10-10-petice-za-obnoveni-dotaci-na-pobyty-deti-na-skol
 tags:
 ---
 
-dle čl. 18 Listiny základních práv a svobod a zákona č. 85/1990 Sb. o právu petičním
+Září 2023
 
-My, níže podepsaní občané, prostřednictvím této petice žádáme změnu rozhodnutí současného vedení MČ Praha 10 o zrušení dotací na pobyty žáků ZŠ na školách v přírodě a lyžařských kurzech na Horském hotelu v Janských lázních v Krkonoších.
+[![](https://pirati10.cz/wp-content/uploads/2023/10/piratske_listy_2023_praha_10.png)](https://pirati10.cz/wp-content/uploads/2023/10/Piratske_listy_Praha_10_-_ZARI_2023_-_pro_web.pdf)
 
-Koalice ODS + TOP 09 + VLASTA dotace na školy v přírodě i lyžařské výcviky jednomyslně  **[zrušila](https://usneseni.praha10.cz/usneseni/usneseni/2070)**. Dopad zrušení dotací na děti (nejen) ze sociálně slabších rodin je významný. S rodiči uvedený krok nikdo z radnice nekonzultoval.
+Podzim 2022
 
-Nově v průměru uhradí rodiče o 460 Kč za žáka a den víc. Za týdenní pobyt tedy min. o 3220 Kč víc!
+[![](https://pirati10.cz/wp-content/uploads/2022/08/piratske_listy_praha10_podzim_2022.jpg)](https://pirati10.cz/wp-content/uploads/2022/08/Piratske-listy-Praha-10-2022.pdf)
 
-**Pro mnoho rodin se stává účast dětí na pobytu nedostupná.**
+Podzim 2020
 
-Od roku 2008 až do letoška mohli školáci z Prahy 10 trávit školu v přírodě nebo lyžák v Horském hotelu v Janských Lázních a to za příznivou cenu. Hotel totiž městská část za tímto účelem koupila a pobyty dětí v něm dotovala. Systém obsazování hotelu je férový, termíny se “točí” tak, aby se vystřídali a vešli všichni.
+[![](https://pirati10.cz/wp-content/uploads/2020/10/piratske_listy_praha10_podzim_2020.jpg)](https://pirati10.cz/wp-content/uploads/2020/10/piratske_listy_praha_10_podzim_2020.pdf)
 
-Důvody zrušení podpory pobytů, které koalice uvádí, jsou buď zcela liché či řešitelné. Např. špatné počasí na jaře a na podzim, režim turnusu “pátek – pátek” či pobytové skupiny od 40 osob.
+Léto 2018
 
-Do hotelu MČ Praha 10 investovala významné finanční prostředky, jeho nevyužívání postrádá smysl a neslučuje se s jednáním řádného hospodáře.
+[![](https://pirati10.cz/wp-content/uploads/2018/09/piratske_listy_praha10_leto_2018.jpg)](https://pirati10.cz/wp-content/uploads/2018/09/piratske_listy_praha_10_leto_2018.pdf)
 
-Pobyty představují pro děti nejen vzdělávací a sportovní přínos, ale také podporují rozvoj jejich dovedností, zdraví a sociálního vnímání.
+Jaro 2018
 
-**Vzhledem k výše uvedeným důvodům žádáme, aby současné vedení Prahy 10 přehodnotilo své rozhodnutí a MČ Praha 10 dotace na pobyty dětí obnovila v původní výši.**
+[![](https://pirati10.cz/wp-content/uploads/2018/09/piratske_listy_praha10_jaro_2018.jpg)](https://pirati10.cz/wp-content/uploads/2018/09/piratske_listy_praha_10_prvni_vydani_08_05_2018.pdf)
 
-**Zároveň žádáme, aby záležitost „Obnovení dotací na pobyty dětí na Horském hotelu v Janských Lázních“, byla projednána na nejbližším jednání zastupitelstva MČ Praha 10.**
+#### Pirátské listy pro hlavní město Praha
 
-Zastupovat petiční výbor při jednání se státními orgány je oprávněn: Mgr. David Satke.
+Květen 2018
 
-###### **Petiční výbor:**
-
-Bobalová Silvia, DiS, Charkovská 22, TČ: 797 859 303,  [silvia.bobalova@gmail.com](mailto:silvia.bobalova@gmail.com)  
-Hlavínová Lucia, Bělocerkevská 1009/11, TČ: 737 666 861,  [hlavinova@email.cz](mailto:hlavinova@email.cz)  
-Ing. Petr Beneš, Nad Vodovodem 3480/2a, TČ: 736 603 957,  [petr.benes@praha10.cz](mailto:petr.benes@praha10.cz)  
-Mgr. Michal Kočí, Pod Strání 22, Praha 10, TČ: 735 045 046,  [michal.koci@praha10.cz](mailto:michal.koci@praha10.cz)  
-Ing. František Král, Žitomírská 38, Praha 10, TČ: 724 424 409,  [fkral@seznam.cz](mailto:fkral@seznam.cz)  
-Mgr. David Satke, Vršovická 842/35, Praha 10, TČ: 776 695 226,  [david.satke@praha10.cz](mailto:david.satke@praha10.cz)
-
-###### **Petice ke stažení: [PETICE_ŠvP_a_lyzarske_kurzy.docx](https://pirati10.cz/wp-content/uploads/2023/10/PETICE_SvP_a_lyzarske_kurzy.docx.pdf)**.
-
-Na převzetí vyplněných, resp. podepsaných petičních archů se ochotně individuálně domluvíme, viz kontaktní údaje výše.
-
-![Zdroj: rodiče žáků ZŠ z Prahy 10](https://pirati10.cz/wp-content/uploads/2023/10/Lyzak-814x1024.jpg)
-
-Zdroj: rodiče žáků ZŠ z Prahy 10
+[![](https://pirati10.cz/wp-content/uploads/2018/09/piratske_listy_hlavni_praha_kveten_2018.jpg)](https://pirati10.cz/wp-content/uploads/2018/09/piratske_listy_hlavni_praha_kveten_2018.pdf)
