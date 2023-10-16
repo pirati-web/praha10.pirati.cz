@@ -1,7 +1,7 @@
 ---
 date: 2023-10-10
 category: blog
-title: 'PETICE za obnovení dotací na pobyty dětí na školách v přírodě a lyžařských kurzech'
+title: 'Místní Pirátské listy pro Prahu 10'
 layout: post
 author: mediální tým
 image: articles/2023/2023-10-16-mistni-piratske-listy-pro-prahu-10.png
