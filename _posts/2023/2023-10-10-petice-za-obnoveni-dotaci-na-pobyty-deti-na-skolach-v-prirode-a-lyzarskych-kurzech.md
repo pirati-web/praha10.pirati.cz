@@ -30,9 +30,15 @@ Pobyty představují pro děti nejen vzdělávací a sportovní přínos, ale ta
 
 **Zároveň žádáme, aby záležitost „Obnovení dotací na pobyty dětí na Horském hotelu v Janských Lázních“, byla projednána na nejbližším jednání zastupitelstva MČ Praha 10.**
 
-Zastupovat petiční výbor při jednání se státními orgány je oprávněn: Mgr. David Satke.
+-   **Petice ke stažení: [PETICE_ŠvP_a_lyzarske_kurzy.docx](https://pirati10.cz/wp-content/uploads/2023/10/PETICE_SvP_a_lyzarske_kurzy.docx.pdf)**.
 
-###### **Petiční výbor:**
+###### (Na převzetí vyplněných, resp. podepsaných petičních archů se ochotně individuálně domluvíme, viz kontaktní údaje výše).
+
+-   **Elektronická forma petice k podpisu:** přes Portál občana, resp. Identitu občana: [**zde**](https://portal.gov.cz/e-petice/494-petice-za-obnoveni-dotaci-na-pobyty-deti-na-skolach-vprirode-a-lyzarskych-kurzech).
+
+(Na rozdíl od ostatních online petic má ePetice plnou právní závaznost, tj. z hlediska legislativy je srovnatelná s listinnými peticemi. Je doplňkem k podávání listinných petic orgánům veřejné moci).
+
+-   **Petiční výbor:**
 
 Bobalová Silvia, DiS, Charkovská 22, TČ: 797 859 303,  [silvia.bobalova@gmail.com](mailto:silvia.bobalova@gmail.com)  
 Hlavínová Lucia, Bělocerkevská 1009/11, TČ: 737 666 861,  [hlavinova@email.cz](mailto:hlavinova@email.cz)  
@@ -41,9 +47,7 @@ Mgr. Michal Kočí, Pod Strání 22, Praha 10, TČ: 735 045 046,  [michal.koci@p
 Ing. František Král, Žitomírská 38, Praha 10, TČ: 724 424 409,  [fkral@seznam.cz](mailto:fkral@seznam.cz)  
 Mgr. David Satke, Vršovická 842/35, Praha 10, TČ: 776 695 226,  [david.satke@praha10.cz](mailto:david.satke@praha10.cz)
 
-###### **Petice ke stažení: [PETICE_ŠvP_a_lyzarske_kurzy.docx](https://pirati10.cz/wp-content/uploads/2023/10/PETICE_SvP_a_lyzarske_kurzy.docx.pdf)**.
-
-Na převzetí vyplněných, resp. podepsaných petičních archů se ochotně individuálně domluvíme, viz kontaktní údaje výše.
+Zastupovat petiční výbor při jednání se státními orgány je oprávněn: Mgr. David Satke.
 
 ![Zdroj: rodiče žáků ZŠ z Prahy 10](https://pirati10.cz/wp-content/uploads/2023/10/Lyzak-814x1024.jpg)
 
