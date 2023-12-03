@@ -1,7 +1,7 @@
 ---
 date: 2023-10-10
 category: blog
-title: 'Místní Pirátské listy pro Prahu 10'
+title: 'Zachování parku v ul. Magnitogorská na sídlišti Vlasta'
 layout: post
 author: mediální tým
 image: articles/2023/2023-12-03-zachovani-parku-v-ul-magnitogorska-na-sidlisti-vlasta.jpg
