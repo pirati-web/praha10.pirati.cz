@@ -1,5 +1,5 @@
 ---
-date: 2023-10-10
+date: 2023-12-03
 category: blog
 title: 'Zachování parku v ul. Magnitogorská na sídlišti Vlasta'
 layout: post
