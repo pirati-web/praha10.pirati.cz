@@ -1,3 +1,12 @@
+---
+date: 2024-01-09
+category: blog
+title: 'Radní Milan Maršálek s nadprůměrným příjmem 93 751 Kč využívá zvýhodněný nájem na obecní byt'
+layout: post
+author: mediální tým
+image: articles/2023/2023-04-05-zastupitelstvo-to-odporuje-zdravemu-rozumu.jpg
+tags:
+---
 
 ###### Radní Milan Maršálek (VLASTA) s nadprůměrným příjmem 93 751 Kč využívá zvýhodněný  nájem na obecní byt od Prahy 10!
 
