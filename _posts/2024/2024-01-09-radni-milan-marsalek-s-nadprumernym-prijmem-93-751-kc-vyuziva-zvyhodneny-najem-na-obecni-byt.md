@@ -8,6 +8,8 @@ image: articles/2024/2024-01-09-radni-milan-marsalek-s-nadprumernym-prijmem-93-7
 tags:
 ---
 
+t
+
 ###### Radní Milan Maršálek (VLASTA) s nadprůměrným příjmem 93 751 Kč využívá zvýhodněný  nájem na obecní byt od Prahy 10!
 
 Radní Maršálek využívá výhodnou nájemní smlouvu z roku 2012. Tenkrát se dal městský byt získat v tzv. „losovačce“. Od té doby se systém výrazně změnil. Městská část se nižším nájemným snaží pomáhat zejména potřebným, ať už seniorům, rodinám s dětmi nebo zdravotně znevýhodněným občanům. Ti ovšem musí každé dva roky svoji životní situaci potvrzovat mnoha dokumenty, a to včetně dokládání příjmů, jelikož se životní situace v čase mění a na byt od města čekají stovky dalších žadatelů v těžké životní situaci.
