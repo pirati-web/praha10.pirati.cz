@@ -35,4 +35,4 @@ Proto Vás, pane starosto, jako statutárního zástupce MČ Praha 10, vyzývám
 S pozdravem,
 
 **za zastupitelský klub Piráti Praha 10  
-****Ing. Jana Komrsková, předsedkyně klubu**
+Ing. Jana Komrsková, předsedkyně klubu**
