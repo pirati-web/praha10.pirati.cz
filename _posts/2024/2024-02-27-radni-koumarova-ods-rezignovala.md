@@ -10,7 +10,7 @@ tags:
 
 ###### Místostarostka Prahy 10 – Olga Koumarová (ODS) rezignovala na funkci členky Rady MČ Praha 10 i na mandát zastupitelky. V zastupitelstvu tak definitivně končí. Hovoří se o „bouřlivém“ odchodu.
 
-„_Místostarostka pro investice do školských objektů a rozpočet byla dlouhodobě terčem kritiky našich zastupitelů. Její působení je spojeno s celou řadou manipulací a pochybných smluv, na které bylo podáno i trestní oznámen_í,“ říká náš zastupitel Petr Beneš. Např.:
+„Místostarostka pro investice do školských objektů a rozpočet byla dlouhodobě terčem kritiky našich zastupitelů. Její působení je spojeno s celou řadou manipulací a pochybných smluv, na které bylo podáno i trestní oznámen_í,“ říká náš zastupitel Petr Beneš. Např.:
 
 -   **Protiprávní manipulace s položkami v rozpočtu ve výši několika desítek milionů korun.**
 
