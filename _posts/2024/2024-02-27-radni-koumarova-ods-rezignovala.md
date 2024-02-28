@@ -1,7 +1,7 @@
 ---
-date: 2024-02-15
+date: 2024-02-27
 category: blog
-title: 'Otevřený dopis panu Martinovi Valovičovi, t.č. starostovi'
+title: 'Radní Koumarová (ODS) rezignovala'
 layout: post
 author: mediální tým
 image: articles/2024/2024-02-27-radni-koumarova-ods-rezignovala.jpg
