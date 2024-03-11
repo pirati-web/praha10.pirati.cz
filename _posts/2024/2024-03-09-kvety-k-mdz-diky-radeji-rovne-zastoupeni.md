@@ -36,7 +36,7 @@ Nedávné události v radě mé domovské městské části Praha 10 jdou bohuž
 
 ###### JAK JSOU NA TOM OSTATNÍ MĚSTSKÉ ČÁSTI?
 
-Když už Praha 10 nevyniká transparentní politikou, rozhodla se koalice Společně pro Prahu (ODS a TOP09) a Koalice VLASTA (STAN a KDU-ČSL) zaujmout alespoň testosteronovou „sausage party“ v radě  ![🙂](https://s.w.org/images/core/emoji/14.0.0/svg/1f642.svg)  [Rychlý průzkum](https://docs.google.com/spreadsheets/d/1sKNM8NqxCBSY6uhAo7XZMHqsP-OJWyqhtNk2GNraqDU/edit?usp=sharing)  složení rad městských částí od Prahy 1 po Prahu 22 u všech odhalil zastoupení žen od symbolického až po téměř rovné. Jen Praha 10 je jediná čistě mužská. Nebývalo tomu tak vždycky – v minulém volebním období bylo zastoupení žen a mužů v radě Prahy 10 vyrovnané.
+Když už Praha 10 nevyniká transparentní politikou, rozhodla se koalice Společně pro Prahu (ODS a TOP09) a Koalice VLASTA (STAN a KDU-ČSL) zaujmout alespoň testosteronovou „sausage party“ v radě  ! [Rychlý průzkum](https://docs.google.com/spreadsheets/d/1sKNM8NqxCBSY6uhAo7XZMHqsP-OJWyqhtNk2GNraqDU/edit?usp=sharing)  složení rad městských částí od Prahy 1 po Prahu 22 u všech odhalil zastoupení žen od symbolického až po téměř rovné. Jen Praha 10 je jediná čistě mužská. Nebývalo tomu tak vždycky – v minulém volebním období bylo zastoupení žen a mužů v radě Prahy 10 vyrovnané.
 
 ###### NA HLASECH ŽEN ZÁLEŽÍ
 
