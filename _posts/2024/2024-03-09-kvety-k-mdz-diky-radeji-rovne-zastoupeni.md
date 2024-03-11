@@ -1,43 +1,55 @@
 ---
-date: 2024-02-27
+date: 2024-03-09
 category: blog
-title: 'Radní Koumarová (ODS) rezignovala'
+title: 'Květy k MDŽ? Díky, raději rovné zastoupení!'
 layout: post
 author: mediální tým
-image: articles/2024/2024-02-27-radni-koumarova-ods-rezignovala.jpg
+image: articles/2024/2024-03-09-kvety-k-mdz-diky-radeji-rovne-zastoupeni.jpg
 tags:
 ---
 
-###### Místostarostka Prahy 10 – Olga Koumarová (ODS) rezignovala na funkci členky Rady MČ Praha 10 i na mandát zastupitelky. V zastupitelstvu tak definitivně končí. Hovoří se o „bouřlivém“ odchodu.
+###### **Při MDŽ nás ze všech stran zasypávají gratulace, karafiáty, bonboniéry a řeči o tom, že ženy jsou tou hezčí a něžnější polovinou lidstva. Je rok 2024 a máme na víc. Ženám k MDŽ přeji stejná práva a stejné zastoupení ve veřejné i soukromé sféře.**
 
-„Místostarostka pro investice do školských objektů a rozpočet byla dlouhodobě terčem kritiky našich zastupitelů. Její působení je spojeno s celou řadou manipulací a pochybných smluv, na které bylo podáno i trestní oznámen_í,“ říká náš zastupitel Petr Beneš. Např.:
+Nedávné události v radě mé domovské městské části Praha 10 jdou bohužel opačným směrem. Po odstoupení místostarostky pro investice do školských objektů a rozpočet Olgy Koumarové a jejím pravděpodobným nahrazením Martinem Čásenským bude složení městské rady poprvé za posledních 20 let čistě mužské.
 
--   **Protiprávní manipulace s položkami v rozpočtu ve výši několika desítek milionů korun.**
+###### JAK JSOU NA TOM OSTATNÍ MĚSTSKÉ ČÁSTI?
 
--   **Snaha o zjednání nepovolené výhody při zadávání veřejné zakázky.**
+Když už Praha 10 nevyniká transparentní politikou, rozhodla se koalice Společně pro Prahu (ODS a TOP09) a Koalice VLASTA (STAN a KDU-ČSL) zaujmout alespoň testosteronovou „sausage party“ v radě  ![🙂](https://s.w.org/images/core/emoji/14.0.0/svg/1f642.svg)  [Rychlý průzkum](https://docs.google.com/spreadsheets/d/1sKNM8NqxCBSY6uhAo7XZMHqsP-OJWyqhtNk2GNraqDU/edit?usp=sharing)  složení rad městských částí od Prahy 1 po Prahu 22 u všech odhalil zastoupení žen od symbolického až po téměř rovné. Jen Praha 10 je jediná čistě mužská. Nebývalo tomu tak vždycky – v minulém volebním období bylo zastoupení žen a mužů v radě Prahy 10 vyrovnané.
 
--   **Neochota či neschopnost reagovat na dotazy zastupitelů.**
+###### NA HLASECH ŽEN ZÁLEŽÍ
 
--   **Personální rozvrat ekonomického odboru úřadu.**
+Co na tom záleží, jestli v radě sedí ženy nebo muži? Jde snad o odbornost, ne o pohlaví! Tak zní častý argument odpůrců kvót nebo debaty o rovnosti šancí vůbec. Dřív, než s ním budu polemizovat, zkusím ho na chvíli přijmout. Je rada Prahy 10 aktuálně obsazená těmi nejkompetentnějšími? Vůbec! Bývalá radní pro finance a rozpočet, docentka na Vysoké škole ekonomické a rozhodně největší kapacita v koalici Prahy 10 přes výzkum veřejných rozpočtů, financování obcí a fiskální transparentnost Lucie Sedmihradská nominována nebyla.
 
--   **Neoblomná vůle hledat cestu, jak** **společnostem okolo lobbisty Tomáše Hrdličky zaplatit domnělou kompenzaci za výstavbu MŠ Bajkalská ve výši cca 16 milionů korun.**
+###### A PROČ JSOU ŽENY V POLITICE POTŘEBA?
 
--   **Neschopnost rozeznat, zda je v rozpočtu zahrnuto 250 mil. kontribucí od developerů či nikoliv.**
+Dělení politiky na pravicovou a levicovou, liberální nebo konzervativní je poněkud zastaralé. Současná doba přináší výzvy, které na různé vrstvy společnosti dopadají odlišně. Představa, že existuje jediná objektivní politika, jediná objektivní vědecká zkušenost a poznání, které tyto problémy vyřeší, je mylná. Navzdory stereotypu, že ženy do politiky přinášejí jakousi mediátorskou roli, si myslím, že ženy jsou v politice potřeba, protože mají specifickou životní zkušenost. A taky proto, že tvoří polovinu lidstva a mít rovný podíl na moci si zaslouží.
 
--   **Bezprecedentní selhání při projednávání návrhu rozpočtu, kdy rozdíl v řádu milionů a miliard není rozdíl.**
+Což mě přivádí k zamyšlení: jak by na tom česká politika mohla být, kdyby ženy dostaly, co jim právem patří?
 
--   **Opakované opravování velkého množství chyb v překládaných materiálech.**
+###### PIRÁTI SE POUČILI
 
-  
-Uvedený výčet pouze rámcově nastiňuje rok a čtvrt „_práce_“ Olgy Koumarové v pozici místostarostky pro oblast financí a rozpočtu.
+Česká pirátská strana se poučila z lekce ve volbách 2021 – společnost vyžaduje, aby byly ženy na kandidátních listinách stran viditelnější. Od té doby máme na kandidátkách, ať už do krajů, či Evropského parlamentu, mnohem rovnější zastoupení žen. Tak například, v třináctičlenném zastupitelském klubu Pirátů na magistrátu hlavního města zasedá včetně mě šest žen.
 
-Piráti opakovaně na nedostatky paní Koumarové upozorňovali, opakovaně pomáhali její excesy na jednání zastupitelstva opravovat. Piráti dokonce v srpnu 2023 podali  **trestní oznámení**, aby zabránili vyvedení 16 milionů ve formě vícenákladů u stavby MŠ Bajkalská v rámci rozhodčího řízení (arbitráže), tedy procesu, který je pro veřejnou správu zcela nevhodný, jak dokládá příklad tunelu Blanka z neblahé éry primátora Béma. Mimochodem, stejný člověk, který za Prahu projel tunel Blanka, měl ve sporu o 16 milionů zastupovat i Prahu 10.
+![](https://pirati10.cz/wp-content/uploads/2024/03/Xparek10-300x158.jpg)###### **Při MDŽ nás ze všech stran zasypávají gratulace, karafiáty, bonboniéry a řeči o tom, že ženy jsou tou hezčí a něžnější polovinou lidstva. Je rok 2024 a máme na víc. Ženám k MDŽ přeji stejná práva a stejné zastoupení ve veřejné i soukromé sféře.**
 
-Vše má však svou mez, a i nám definitivně došla s neumětelstvím paní Koumarové trpělivost. Proto jsme doručili odd. rady a zastupitelstva MČ Praha 10 oficiální návrh na odvolání paní Koumarové z pozice místostarostky městské části Praha 10.
+Nedávné události v radě mé domovské městské části Praha 10 jdou bohužel opačným směrem. Po odstoupení místostarostky pro investice do školských objektů a rozpočet Olgy Koumarové a jejím pravděpodobným nahrazením Martinem Čásenským bude složení městské rady poprvé za posledních 20 let čistě mužské.
 
-S ohledem na neutěšené působení paní Koumarové jsme měli důvodnou obavu, že její setrvání ve funkci místostarostky je pro Prahu 10 spojeno s neúměrnými riziky. Paní Koumarová nejednala jako řádný hospodář.
+###### JAK JSOU NA TOM OSTATNÍ MĚSTSKÉ ČÁSTI?
 
-Za pravdu našim obavám dávají i výstupy z mimořádné kontroly zaměřené na zadávání veřejných zakázek malého rozsahu vedené ÚMČ Praha 10 na základě Příkazu tajemnice úřadu.  
-O to více nás rezignace paní Koumarové těší.
+Když už Praha 10 nevyniká transparentní politikou, rozhodla se koalice Společně pro Prahu (ODS a TOP09) a Koalice VLASTA (STAN a KDU-ČSL) zaujmout alespoň testosteronovou „sausage party“ v radě  ![🙂](https://s.w.org/images/core/emoji/14.0.0/svg/1f642.svg)  [Rychlý průzkum](https://docs.google.com/spreadsheets/d/1sKNM8NqxCBSY6uhAo7XZMHqsP-OJWyqhtNk2GNraqDU/edit?usp=sharing)  složení rad městských částí od Prahy 1 po Prahu 22 u všech odhalil zastoupení žen od symbolického až po téměř rovné. Jen Praha 10 je jediná čistě mužská. Nebývalo tomu tak vždycky – v minulém volebním období bylo zastoupení žen a mužů v radě Prahy 10 vyrovnané.
 
-Olga Koumarová měla v gesci také investice do budov ZŠ. V kontextu nastíněných skutečností patrně není náhoda, že slibovaný **termín otevření rekonstruované ZŠ V Olšinách k 1. září 2024 nebude dodržen**. Stavba naopak vykazuje opakované  **vícenáklady**. Fakt, že zásadní činnosti technického dozoru stavby a BOZP vykonávaly Prahou 10  **neschválené osoby**, o čemž místostarostka Koumarová věděla nebo měla vědět, patrně již nijak nepřekvapí.
+###### NA HLASECH ŽEN ZÁLEŽÍ
+
+Co na tom záleží, jestli v radě sedí ženy nebo muži? Jde snad o odbornost, ne o pohlaví! Tak zní častý argument odpůrců kvót nebo debaty o rovnosti šancí vůbec. Dřív, než s ním budu polemizovat, zkusím ho na chvíli přijmout. Je rada Prahy 10 aktuálně obsazená těmi nejkompetentnějšími? Vůbec! Bývalá radní pro finance a rozpočet, docentka na Vysoké škole ekonomické a rozhodně největší kapacita v koalici Prahy 10 přes výzkum veřejných rozpočtů, financování obcí a fiskální transparentnost Lucie Sedmihradská nominována nebyla.
+
+###### A PROČ JSOU ŽENY V POLITICE POTŘEBA?
+
+Dělení politiky na pravicovou a levicovou, liberální nebo konzervativní je poněkud zastaralé. Současná doba přináší výzvy, které na různé vrstvy společnosti dopadají odlišně. Představa, že existuje jediná objektivní politika, jediná objektivní vědecká zkušenost a poznání, které tyto problémy vyřeší, je mylná. Navzdory stereotypu, že ženy do politiky přinášejí jakousi mediátorskou roli, si myslím, že ženy jsou v politice potřeba, protože mají specifickou životní zkušenost. A taky proto, že tvoří polovinu lidstva a mít rovný podíl na moci si zaslouží.
+
+Což mě přivádí k zamyšlení: jak by na tom česká politika mohla být, kdyby ženy dostaly, co jim právem patří?
+
+###### PIRÁTI SE POUČILI
+
+Česká pirátská strana se poučila z lekce ve volbách 2021 – společnost vyžaduje, aby byly ženy na kandidátních listinách stran viditelnější. Od té doby máme na kandidátkách, ať už do krajů, či Evropského parlamentu, mnohem rovnější zastoupení žen. Tak například, v třináctičlenném zastupitelském klubu Pirátů na magistrátu hlavního města zasedá včetně mě šest žen.
+
+![](https://pirati10.cz/wp-content/uploads/2024/03/Xparek10-300x158.jpg)
