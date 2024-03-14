@@ -21,7 +21,7 @@ Stručně, co se od srpna 2023 událo:
 -   Po čtyřdenním  **intenzivním tlaku veřejnosti** v pátek 22. 9. 2023 navrhuje pan Martin Valovič  **rozšíření programu zastupitelstva o nový bod**  s názvem „Informace o aktuálním vývoji záměru „Nový Květ“, jehož je sám předkladatelem.
 -   Za čtyři dny nasbíráno  **914 podpisů!**
 
-###### **Co bude dál?**
+****** **Co bude dál?**
 
 -   Bod bude  [zastupitelstvem](https://praha10.cz/volene-organy/zastupitelstvo-mc/dokumentace-zmc-pro-verejnost)  projednáván v pondělí **25. 9. 2023**  v pevně určený čas  **od 16 hod.**!
 -   **Místo projednávání:**  přízemí objektu Vinice Business Centre – Vinice II, Vinohradská 3218/169, Praha 10.
@@ -33,10 +33,10 @@ Stručně, co se od srpna 2023 událo:
 
 **TV reportáž z roku 2018**  k původnímu stavebnímu záměru  **[zde](https://prahatv.eu/zpravy/praha/praha-10/7978/pripravuje-se-rekonstrukce-oc-kvet-v-praze-10)**.
 
-[![Původní - do července 2023 - diskutovaný návrh OC KvětZdroj: https://zahradninamesti.cz/vizualizace-projektu](https://pirati10.cz/wp-content/uploads/2023/09/PuvodnivzhledOCKvet-300x155.png)](https://zahradninamesti.cz/vizualizace-projektu)
+[
 
 **Původní**  – do července 2023 – diskutovaný návrh OC Květ Zdroj: https://zahradninamesti.cz/vizualizace-projektu
 
-[![Nový - od srpna 2023 - koalicí VLASTA a Společně pro Prahu 10 prosazovaný návrh.Zdroj: https://novykvet.cz/ ](https://pirati10.cz/wp-content/uploads/2023/09/Novykvet-300x230.jpg)](https://novykvet.cz/)
+[
 
 **Nový**  – od srpna 2023 – koalicí VLASTA a Společně pro Prahu 10 prosazovaný návrh. Zdroj: https://novykvet.cz/

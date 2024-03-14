@@ -9,7 +9,7 @@ tags:
 ---
 
 
-###### **Na sídlišti VLASTA probíhá územní řízení na stavbu domu o 10 patrech v místě jediného parčíku, který na sídlišti je.**
+****** **Na sídlišti VLASTA probíhá územní řízení na stavbu domu o 10 patrech v místě jediného parčíku, který na sídlišti je.**
 
 Obyvatelé sídliště Vlasta nestojí o prvenství v kategorii „_desetipatrové obytné budovy s nejmenším vzájemným odstupem od sousedních obytných budov v Praze_„.
 

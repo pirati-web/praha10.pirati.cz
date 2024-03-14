@@ -9,7 +9,7 @@ tags:
 ---
 
 
-###### _**„Nepřicházím rozhodně s tím, abych někoho pro jeho názory odsuzoval, shazoval ho, nebo si jej nevážil. Odmítám jakékoli nálepkování konkurence, vylučování z diskuze apod. Přeneseno na naše zastupitelstvo prohlašuji, že ani já, a jsem přesvědčen, že ani nastupující rada jako celek nemá v úmyslu vést slepý boj proti naší opozici“.**_
+****** _**„Nepřicházím rozhodně s tím, abych někoho pro jeho názory odsuzoval, shazoval ho, nebo si jej nevážil. Odmítám jakékoli nálepkování konkurence, vylučování z diskuze apod. Přeneseno na naše zastupitelstvo prohlašuji, že ani já, a jsem přesvědčen, že ani nastupující rada jako celek nemá v úmyslu vést slepý boj proti naší opozici“.**_
 
 Výše zmíněná vzletná slova zmínil pan Valovič (Společně/ODS)  [na ustavujícím zastupitelstvu](https://praha10.cz/Portals/0/docs/RaZ/steno/s2022-2026/steno_ustavujici.pdf?ver=2022-11-21-094501-220), při svém nástupu do pozice starosty. V kontrastu s nimi jsou reálné kroky současné rady, která od svého nástupu do funkce usilovně pracuje na tom, aby opoziční kluby opustily své kanceláře na radnici. Přijala hned několik usnesení o vyklizení předmětných kanceláří argumentující technickým stavem budovy radnice.
 

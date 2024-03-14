@@ -8,7 +8,7 @@ image: articles/2023/2023-09-29-jake-to-bylo-na-zarijovem-zastupitelstvu.jpg
 tags:
 ---
 
-###### **Dlouhé, asertivní, překvapivé a nakonec přeci jen ne beznadějné.**
+****** **Dlouhé, asertivní, překvapivé a nakonec přeci jen ne beznadějné.**
 
 -   Stěžejním tématem zářijového jednání byl informační bod k  **předimenzovanému záměru výstavby u OC Květ**, který byl díky petiční akci, pod kterou se sešlo  **více jak 1000 podpisů,**  narychlo starostou Valovičem (ODS) na program navržen.
 -   Bod se projednával více než čtyři hodiny.
@@ -16,7 +16,7 @@ tags:
 -   Náš zastupitel Petr Beneš na program jednání navrhl bod deklarující nesouhlas městské části s plánem investora. Prezentoval také petici proti záměru, kterou podle něj podpořilo přes 1000 lidí. „_Žádají jenom to, aby politici plnili svoje sliby a nepovolili předimenzovanou výstavbu na místě obchodního centra Květ_,“ řekl.
 -   Přesto většina zastupitelů navržený NESOUHLAS nepodpořila (viz foto).
 
-###### Podařily se  **dílčí úspěchy**:
+****** Podařily se  **dílčí úspěchy**:
 
 -   Pan Valovič slíbil zřídit  **platformu pro jednání s developerem.**  Na uvedené platformě budou s developerem jednat občané a zástupci radnice.
 -   Dále pan Valovič přislíbil, že  **i další fáze výstavby OC Květ budou předloženy na jednání zastupitelstva**.
@@ -25,7 +25,7 @@ tags:
 
 Další postup bude i nadále koordinován s místním spolkem [Bezpečný květ](https://www.facebook.com/bezpecnykvet?__cft__[0]=AZUQr1g9v6vzzuMDNAuMdksK9eKFIzPAd6v4wDVnhiY-dLUaOQrCd-X6gD3O49nrKojls8PhGlMkOeYbADgQMRSoqdDJlYi9vgT7l6FGoTcsd7Qejrpc71Qm4FJRTNuvGTmzINajD1e3E946l8GZ6h115ZjX-jVl1SBkNEhMZGfEj_jk7M5gv6mqvFowDaCpWjk&__tn__=-]K-R).
 
-###### **Co se dělo na jednání dál?**
+****** **Co se dělo na jednání dál?**
 
 [Byla mj. projednáno](https://praha10.cz/volene-organy/zastupitelstvo-mc/videozaznamy-jednani):
 
@@ -50,7 +50,7 @@ Radní nám nebyli schopni vysvětlit, proč  **nebylo standardně vypsáno II. 
 
 Bod interpelace zastupitelů měl obligátní komickou podobu, kdy se koaliční zastupitelé předem připravenými dotazy tázali „svých“ radních.
 
-###### **Přesto se nám podařilo položit dotazy** **na:**
+****** **Přesto se nám podařilo položit dotazy** **na:**
 
 -   **rekultivaci Malešického zámečku**, resp. celého areálu (jak probíhá jednání s MHMP),
 -   zakázku ve výši 2 mil. Kč na  [**PR kampaň od šíbra napojeného na causu Dozimetr**](https://pirati10.cz/dva-miliony-z-prahy-10-pro-spolupracovnika-hlubucka-z-dozimetru/) – proč MČ Praha 10 neshledává informace v médiích o vazbách na trestně stíhané osoby jako důvod pro výpověď smlouvy, proč poptávkové řízení nebylo zveřejněno na profilu zadavatele, aby se dosáhlo vyšší konkurence, tj. nižší ceny, proč byly osloveny předem vybrané firmy,
