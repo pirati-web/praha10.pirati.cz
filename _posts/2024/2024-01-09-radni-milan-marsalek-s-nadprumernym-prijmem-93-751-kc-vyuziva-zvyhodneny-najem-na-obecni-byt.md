@@ -9,7 +9,7 @@ tags:
 ---
 
 
-###### Radní Milan Maršálek (VLASTA) s nadprůměrným příjmem 93 751 Kč využívá zvýhodněný  nájem na obecní byt od Prahy 10!
+****** Radní Milan Maršálek (VLASTA) s nadprůměrným příjmem 93 751 Kč využívá zvýhodněný  nájem na obecní byt od Prahy 10!
 
 Radní Maršálek využívá výhodnou nájemní smlouvu z roku 2012. Tenkrát se dal městský byt získat v tzv. „losovačce“. Od té doby se systém výrazně změnil. Městská část se nižším nájemným snaží pomáhat zejména potřebným, ať už seniorům, rodinám s dětmi nebo zdravotně znevýhodněným občanům. Ti ovšem musí každé dva roky svoji životní situaci potvrzovat mnoha dokumenty, a to včetně dokládání příjmů, jelikož se životní situace v čase mění a na byt od města čekají stovky dalších žadatelů v těžké životní situaci.
 
@@ -19,13 +19,13 @@ Proto vyzýváme radního Maršálka, aby přistoupil na nájemné v místě a �
 
 Pan Maršálek se na zastupitelstvu k problematice během 1,5 hodiny dlouhého bodu, kde se tato problematika řešila, na prosincovém zastupitelstvu vyjádřil pouze jednou. Hned jako první řečník, pak již nezareagoval ani na jediný dotaz. Při hlasovaní vyndal kartu z hlasovacího zařízení a předstíral, že tam není. Tohle je ono jeho jediné vyjádření vytažené z oficiálního stenozáznamu:
 
-[![Výňatek ze stenografického záznamu jednání Zastupitelstva MČ Praha 10 ve dnech 18. - 19.12.2023](https://pirati10.cz/wp-content/uploads/2024/01/Marsalek_najem.png)](https://praha10.cz/Portals/0/docs/RaZ/steno/s2022-2026/steno_6_ZMC.pdf?ver=2024-01-04-090149-303)
+[
 
 Výňatek ze stenografického záznamu jednání Zastupitelstva MČ Praha 10 ve dnech 18. – 19.12.2023
 
 Jelikož naše výzva koresponduje s programem Koalice Vlasta, ve kterém se uvádí:
 
-[![](https://pirati10.cz/wp-content/uploads/2024/01/Vlastniprogramnajem.png)](https://www.vlasta10.cz/program2022/?fbclid=IwAR0JWfGp1BdAiCOXTvjwRdYmU_3CBapeGk6iNlzUJIqEyx_fvDLDYcnoAi4)
+[
 
 Výňatek z programu koalice Vlasta
 
