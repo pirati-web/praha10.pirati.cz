@@ -8,7 +8,7 @@ image: articles/2024/2024-02-13-praha-10-pomaha-komu-a-k-cemu-opsany-nadacni-fon
 tags:
 ---
 
-###### Bez námitek odsouhlasili v lednu koaliční zastupitelé založení Nadačního fondu (NF) Praha 10 pomáhá. A to i přesto, že opozice poukázala na řadu problematických pasáží i vyložené plagiátorství zakládací listiny Nadačního fondu. Celá věc budí podezření, že jde spíše o politický nástroj než o bohulibý způsob jak podpořit obyvatele MČ.
+****** Bez námitek odsouhlasili v lednu koaliční zastupitelé založení Nadačního fondu (NF) Praha 10 pomáhá. A to i přesto, že opozice poukázala na řadu problematických pasáží i vyložené plagiátorství zakládací listiny Nadačního fondu. Celá věc budí podezření, že jde spíše o politický nástroj než o bohulibý způsob jak podpořit obyvatele MČ.
 
 Předkladatelé  [**návrhu**](https://praha10.cz/vedeni-a-sprava-mc/zastupitelstvo-mc/usneseni/agenttype/view/usneseni/54899/zastupitelstvo-7-1) – starosta Valovič (ODS), místostarosta Kašpar (VLASTAN) a radní Počarovský (TOP09) – na námitky reagovali mlčením. Nápad založit na Praze 10 Nadační fond protlačili zastupitelstvem za nestandardně krátkou dobu.
 
@@ -20,7 +20,7 @@ _“Tento orgán bude mít možnost zřídit si své poradní orgány v p
 
 Piráti také ostře kritizují fakt, že funkce ve správní radě  **nejsou čestné**. Naopak, výši  **odměny sama sobě**  budou navrhovat přímo její členové.  **Náklady na správu NF mohou přesáhnout 30 % hodnoty ročních nadačních příspěvků**.
 
-##### Komu vlastně pomůže?
+***** Komu vlastně pomůže?
 
 Dle zakládací listiny je vymezení činnosti Nadačního fondu Prahy 10 velmi široké a jeho definování vágní.  
 Chce pomáhat zejména osobám v tíživé sociální či zdravotní situaci, ohroženým dětem, fyzicky či mentálně handicapovaným seniorům.

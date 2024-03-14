@@ -8,7 +8,7 @@ image: articles/2024/2024-02-27-radni-koumarova-ods-rezignovala.jpg
 tags:
 ---
 
-###### Místostarostka Prahy 10 – Olga Koumarová (ODS) rezignovala na funkci členky Rady MČ Praha 10 i na mandát zastupitelky. V zastupitelstvu tak definitivně končí. Hovoří se o „bouřlivém“ odchodu.
+****** Místostarostka Prahy 10 – Olga Koumarová (ODS) rezignovala na funkci členky Rady MČ Praha 10 i na mandát zastupitelky. V zastupitelstvu tak definitivně končí. Hovoří se o „bouřlivém“ odchodu.
 
 „Místostarostka pro investice do školských objektů a rozpočet byla dlouhodobě terčem kritiky našich zastupitelů. Její působení je spojeno s celou řadou manipulací a pochybných smluv, na které bylo podáno i trestní oznámen_í,“ říká náš zastupitel Petr Beneš. Např.:
 
