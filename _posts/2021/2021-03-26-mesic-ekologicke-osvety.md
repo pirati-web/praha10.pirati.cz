@@ -22,5 +22,5 @@ Na sociálních sítích se postupně budou objevovat i materiály či zajímavo
 
 Kampaní chceme lidi motivovat k lepší osobní odpovědnosti při nakládání s odpadem a komplexnějšímu přemýšlení o této tematice. Těší nás, že se nám v souvislosti s přípravou aktivity podařilo prohloubit spolupráci s některými organizacemi a aktivními občany a navázat nová partnerství. V aktivitách budeme pokračovat i po skončení Dubna bez odpadů.
 
-![Měsíc ekologické osvěty! Na MČ Praha 10 bude Duben bez odpadů](/assets/img/articles/2021/2021-03-26-mesic-ekologicke-osvety-2.jpg)
+
 

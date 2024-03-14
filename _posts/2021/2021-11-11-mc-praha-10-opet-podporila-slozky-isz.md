@@ -20,10 +20,10 @@ Poskytnutí finančních a nefinančních darů v celkové hodnotě milion korun
 
 „U policie bych vyzdvihl, že dlouhodobě a koncepčně neřeší jen následky, tedy samotnou kriminální činnost, ale i to, jak jí předcházet. Přibližně jednou za měsíc probíhají bezpečnostně-preventivní akce, spojené s kontrolou vytipovaných rizikových míst. Oddělení prevence z krajského ředitelství pak pořádá přednášky ve školách či domovech seniorů, kde speciálně upozorňuje například na praktiky tzv. šmejdů,“ vypočítává radní Kočí, který policejnímu obvodnímu ředitelství Praha IV předal nové záchranářské nože, vesty a další vybavení v celkové hodnotě 300 tisíc korun.
 
-![2021-11-11-mc-praha-10-opet-podporila-slozky-isz-2](https://a.pirati.cz/praha10/img/articles/2021/2021-11-11-mc-praha-10-opet-podporila-slozky-isz-2.jpg)
+
 
 [Městská policie hl. m. Prahy, Obvodní ředitelství Praha 10](https://www.mppraha.info/utvary-mp/or-praha-10)  pak může na motivační odměny pro své zaměstnance využít 400 tisíc korun od městské části. „Její práce je často nedoceněná, přitom pro nás je spolupráce se strážníky klíčová, velmi dobře doplňují činnost státní policie, i vzhledem k vynikající znalosti místního prostředí,“ zdůrazňuje Michal Kočí. „O tom, že i oni kladou velký důraz na prevenci násilí a nebezpečných společenských jevů, se mohli přesvědčit také návštěvníci našeho  [říjnového veletrhu Zdravá Praha 10](https://www.facebook.com/events/nc-eden/veletrh-zdrav%C3%A1-praha-10/387806039484478/), kde měla městská policie vlastní stánek. Kontakt na ´svého´ strážníka si občané mohou dohledat na portálu  [www.mppraha.cz](https://www.mppraha.cz/item/3867-najdi-sveho-straznika-vozidlo),“ doplňuje radní Kočí.
 
-![2021-11-11-mc-praha-10-opet-podporila-slozky-isz-3](https://a.pirati.cz/praha10/img/articles/2021/2021-11-11-mc-praha-10-opet-podporila-slozky-isz-3.jpg)
+
 
 Nedílnou součástí IZS na území MČ Praha 10 je také stanice číslo 5 Hasičského záchranného sboru hl. m. Prahy. Také ona od radnice obdržela vybavení v hodnotě 300 tisíc korun, například přetlakový ventilátor sloužící k odvětrávání zakouřených prostor nebo nové dýchací přístroje. „Jejich skvělou práci jsme nedávno mohli vidět při požáru malešické spalovny, kde zasahovalo celkem 98 hasičů z 11 profesionálních a sedmi dobrovolných jednotek,“ uvádí Michal Kočí konkrétní příklad.

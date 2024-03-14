@@ -13,7 +13,7 @@ Bude se jednat o první pobytovou službu svého druhu na území hlavního měs
 
 Na území hlavního města žije více než 2700 dětí se zdravotním znevýhodněním, které potřebují nějakým způsobem zvýšenou péči. Odlehčovací služby, které by rodinám nebo pečujícím pomáhaly zvládat každodenní zátěž, ale v hlavním městě dlouhodobě chybí. Vyčerpané rodiny tak vozí své děti do zařízeních v Mladé Boleslavi nebo v Náchodě. Nedostatek odlehčovacích služeb může vést k totálnímu vyčerpání rodin a a k následnému umisťování dětí do ústavů.
 
-**Jsme #Naprahuzmeny**
+**Jsme *Naprahuzmeny**
 
 Novou službu provozuje  [Dětské centrum Paprsek,](https://www.dcpaprsek.org/nase-sluzby/odlehcovaci-sluzba/)  příspěvková organizace hlavního města Prahy. MČ Praha 10 poskytla nově zrekonstruovaný bezbariérový prostor a poskytla finanční prostředky na stavební úpravy nezbytné pro poskytování služby. Odbornou pomocí významně pomohl spolek  [Péče bez překážek](https://www.pece-bez-prekazek.cz/kontakt/).
 
@@ -45,4 +45,4 @@ O dotaci je možné žádat :
 -   za 2. pololetí školního roku 2021/2022 od 1. 7. do 30. 9. 2022.  
     Více zde:  [https://praha10.cz/dotace](https://praha10.cz/dotace?fbclid=IwAR1_9sXp4wU13_o82qCVJ7ZwH0_tpKc6-EG5asIRZMZpzSOLv5ETXAEeESY)
     
-![https://a.pirati.cz/praha10/img/articles/2021/2021-12-14-aby-deti-se-zdravotnim-znevyhodnenim-nekoncily-v-ustavech-02.jpg](https://a.pirati.cz/praha10/img/articles/2021/2021-12-14-aby-deti-se-zdravotnim-znevyhodnenim-nekoncily-v-ustavech-02.jpg)
+

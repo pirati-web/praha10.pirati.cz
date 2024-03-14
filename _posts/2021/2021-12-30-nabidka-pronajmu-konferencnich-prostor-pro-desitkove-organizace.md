@@ -17,4 +17,4 @@ Zájemci si mohou prostory pronajmout celoročně v pracovní dny v době od 8:0
 
 Nabídka pronájmu prostor je další z mnoha rozvojových kroků, které CSOP v tomto volebním období činí – rozšiřuje a zkvalitňuje paletu svých služeb a současně dbá na hospodárný provoz.
 
-Plníme další bod  [desítkového pirátského programu](https://praha10.pirati.cz/program/)  v oblasti podpory rozvoje občanských a spolkových aktivit. Jsme prostě opět #Naprahuzměny!
+Plníme další bod  [desítkového pirátského programu](https://praha10.pirati.cz/program/)  v oblasti podpory rozvoje občanských a spolkových aktivit. Jsme prostě opět *Naprahuzměny!

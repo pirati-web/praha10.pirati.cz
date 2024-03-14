@@ -25,8 +25,8 @@ Nízkoprahový klub zároveň od září organizuje aktivity nejrůznějšího z
 
 Po volbách 2018 jsme jako desítkoví Piráti zřízení klubu pro mládež přenesli z desítkového pirátského programu do programového prohlášení Rady MČ Praha 10. Naplnili jsme tak další bod našeho programu, s kterým předchozí vedení radnice měla mnohé potíže, o kterých jsme psali dříve  [zde](https://pirati10.cz/vybudovani-nizkoprahoveho-klubu-pro-mladez-se-ukazalo-byt-pro-koalici-prilis-vysokym-cilem/).
 
-![Obrázek 1](https://a.pirati.cz/praha10/img/articles/2021/2021-09-15-novy-klub-pro-deti-a-mladez-ymca-1.jpg)
-![Obrázek 2](https://a.pirati.cz/praha10/img/articles/2021/2021-09-15-novy-klub-pro-deti-a-mladez-ymca-2.jpg)
-![Obrázek 3](https://a.pirati.cz/praha10/img/articles/2021/2021-09-15-novy-klub-pro-deti-a-mladez-ymca-3.jpg)
-![Obrázek 4](https://a.pirati.cz/praha10/img/articles/2021/2021-09-15-novy-klub-pro-deti-a-mladez-ymca-4.jpg)
-![Obrázek 5](https://a.pirati.cz/praha10/img/articles/2021/2021-09-15-novy-klub-pro-deti-a-mladez-ymca-5.jpg)
+
+
+
+
+

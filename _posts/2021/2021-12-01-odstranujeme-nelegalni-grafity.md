@@ -16,7 +16,7 @@ Do obnoveného programu se za téměř rok a půl jeho trvání zaregistrovalo n
 
 Podmínky programu, vč. přihlášky, naleznete  [**zde**](https://praha10.cz/praha10bezgraffiti).
 
-Dbáme o naše životní prostředí.  **#Držíme kurz!**
+Dbáme o naše životní prostředí.  ***Držíme kurz!**
 
 Legální graffiti plochy v Praze 10:
 
@@ -26,5 +26,5 @@ Legální graffiti plochy v Praze 10:
 4.  Portál jídelny ZŠ u Roháčových kasáren,
 5.  TJ Lokomotiva, Sportovní 1380, Praha 10 – Vršovice (část haly na stolní tenis a bytovka v areálu TJ na straně k Lopuchové ulici).
 
-![](https://a.pirati.cz/praha10/img/articles/2021/2021-12-01-odstranujeme-nelegalni-grafity-2.jpg)
-![](https://a.pirati.cz/praha10/img/articles/2021/2021-12-01-odstranujeme-nelegalni-grafity-3.jpg)
+
+

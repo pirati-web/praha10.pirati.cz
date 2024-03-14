@@ -27,4 +27,4 @@ Kromě etablovaných organizací jako je [Státní zdravotní ústav](http://www
 A také s projektem Ministerstva zdravotnictví [Pacientský hub](https://www.pacientskyhub.cz/), který se zaměřuje na podporu pacientských organizací. „To je trochu opomíjená, a přitom z mého pohledu nesmírně důležitá činnost. Nejde jen o pomoc lidem, kteří kvůli svému zdravotnímu stavu trpí, ale také o přiblížení jejich situace většinové společnosti, a o otevření některých stále často tabuizovaných témat,” zdůrazňuje Michal Kočí.  
   
 
-Příspěvky ke kampani budou postupně zveřejňované na sociálních sítích pod hashtagem „#“zdravapraha10.
+Příspěvky ke kampani budou postupně zveřejňované na sociálních sítích pod hashtagem „*“zdravapraha10.

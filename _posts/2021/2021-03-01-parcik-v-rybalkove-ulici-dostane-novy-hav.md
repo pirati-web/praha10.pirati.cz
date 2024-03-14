@@ -21,7 +21,7 @@ Městská část obyvatele rovněž s předstihem upozornila na plánované kác
 
 Revitalizace parku bude probíhat do prázdnin tohoto roku, celkové náklady budou 7 milionů korun.
 
-![Parčík](/assets/img/articles/2021/2021-03-01-parcik-v-rybalkove-ulici-dostane-novy-hav-1.jpg)
-![Parčík](/assets/img/articles/2021/2021-03-01-parcik-v-rybalkove-ulici-dostane-novy-hav-2.jpg)
-![Parčík](/assets/img/articles/2021/2021-03-01-parcik-v-rybalkove-ulici-dostane-novy-hav-3.jpg)
-![Parčík](/assets/img/articles/2021/2021-03-01-parcik-v-rybalkove-ulici-dostane-novy-hav-4.jpg)
+
+
+
+
