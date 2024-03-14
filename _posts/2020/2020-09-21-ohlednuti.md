@@ -19,5 +19,5 @@ Velkým úkolem, který nás ještě čeká, je nezbytná rekonstrukce budovy ra
 
 Nalezli jsme vhodné využití pro zcela nekoncepčně zahájenou rekonstrukci objektu U Vršovického nádraží 30/30, kde vznikne ojedinělé centrum pro pacienty, tzv. Pacientský HUB. Jedná se o moderní koncept na pomezí zdravotnictví a  sociálních služeb, který poskytne prostor pro vzdělávání a dialog mezi pacienty, lékaři a státní správou. Finišuje dostavba centra dětí a mládeže, které nabídne množství volnočasových aktivit, na které rodiny znevýhodněných dětí zpravidla nemají dostatek finančních prostředků. Při správě městské části úzce spolupracujeme i s našimi pirátskými zastupiteli na Magistrátu HMP a aktivně se snažíme získat zde podporu našich projektů. Obec řídíme zodpovědně a s maximální rozvahou. 
 
-Děkujeme za vaši podporu! #Držíme kurz! 
+Děkujeme za vaši podporu! *Držíme kurz! 
 

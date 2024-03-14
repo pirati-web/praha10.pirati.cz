@@ -16,10 +16,10 @@ Na desítkách míst Prahy 10 mohou občané nově narazit na vizuály, které d
 
 „_Denně mi občané hlásí přeplněné kontejnery na tříděný odpad a nepořádek v jejich okolí. Často je to způsobené právě neefektivní likvidací papíru a plastů, které se do separačních nádob nevejdou jen proto, že je nikdo nesešlápl. Společnou kampaní se snažíme na tento problém upozornit. Sešlápnout plastovou láhev nebo papírovou krabici dokáže každý_**,“**  říká Jana Komrsková (Piráti), místostarostka MČ Praha 10, která má v gesci mj. životní prostředí.
 
-Desítka se vloni v srpnu zapojila do kampaně MŽP #dostbyloplastu. Rada MČ schválila seznam opatření na omezení používání plastů a produkce zbytečného odpadu, které se týkají provozu radnice, farmářských trhů či akcí, jež městská část pořádá nebo je podporuje ze svých dotačních programů.
+Desítka se vloni v srpnu zapojila do kampaně MŽP *dostbyloplastu. Rada MČ schválila seznam opatření na omezení používání plastů a produkce zbytečného odpadu, které se týkají provozu radnice, farmářských trhů či akcí, jež městská část pořádá nebo je podporuje ze svých dotačních programů.
 
 Svým občanům pak v desateru doporučuje nekupovat balenou vodu, ale využívat stejně kvalitní kohoutkovou, pořídit si opakovaně použitelný kelímek nebo nahradit jednorázové papírové utěrky a kapesníky těmi látkovými.
 
-Zprávu o připojení MČ Praha 10 k iniciativě MŽP #dostbyloplastu najdete  [zde.](https://www.praha10.cz/urad-mc/tiskove-zpravy-a-aktuality/artmid/4284/praha-10-snizuje-spotrebu-jednorazoveho-plastoveho-nadobi-a-obalu?articleid=2898)
+Zprávu o připojení MČ Praha 10 k iniciativě MŽP *dostbyloplastu najdete  [zde.](https://www.praha10.cz/urad-mc/tiskove-zpravy-a-aktuality/artmid/4284/praha-10-snizuje-spotrebu-jednorazoveho-plastoveho-nadobi-a-obalu?articleid=2898)
 
 Info o kampani „Tak sešlápni, má to smysl“, je  [zde](https://www.ave.cz/cs/o-spolecnosti/novinky/seslapnuti-ma-smysl-ave-cz-podporuje-v-kampani-efektivni-recyklaci-odpadu-1).
