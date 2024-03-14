@@ -8,13 +8,13 @@ image: articles/2022/2022-12-08-opozice-svolava-jednani-zastupitelstva.jpg
 tags:
 ---
 
-###### **Svolání zastupitelstva MČ Praha 10 si kvůli nečinnosti starosty Martina Valoviče (ODS) musela vyžádat opozice, doložila k tomu potřebných 15 podpisů zastupitelů. Současná rada totiž vládne bez funkčního kontrolního výboru, a přitom schvaluje zakázky za desítky milionů korun. Zastupitelé budou požadovat vysvětlení, proč nebyl předložen ke schválení rozpočet na rok 2023 a Prahu 10 tak zcela jistě čeká rozpočtové provizorium.**
+****** **Svolání zastupitelstva MČ Praha 10 si kvůli nečinnosti starosty Martina Valoviče (ODS) musela vyžádat opozice, doložila k tomu potřebných 15 podpisů zastupitelů. Současná rada totiž vládne bez funkčního kontrolního výboru, a přitom schvaluje zakázky za desítky milionů korun. Zastupitelé budou požadovat vysvětlení, proč nebyl předložen ke schválení rozpočet na rok 2023 a Prahu 10 tak zcela jistě čeká rozpočtové provizorium.**
 
 _“Pan starosta zaspal. Co nejrychlejší svolání zasedání zastupitelstva je stěžejní. Chybí předseda kontrolního výboru, směřujeme do rozpočtového provizoria a radnice nám dál padá na hlavu. V zájmu občanů Prahy 10 by měla městská rada se zastupitelstvem znovu projednat i materiály, které již stihla od listopadu schválit a jsou tam např. dotace na paliativní péči,”_  říká naše zastupitelka Jana Komrsková.
 
 Starosta Valovič  [na listopadovém ustavujícím zastupitelstvu veřejně slíbil](https://praha10.cz/Portals/0/docs/RaZ/steno/s2022-2026/steno_ustavujici.pdf?ver=2022-11-21-094501-220), že další zasedání zastupitelstva se bude konat ještě v prosinci, následně však radnice oznámila nejbližší termín až na 30. ledna 2023.
 
-###### Předběžný program opozicí svolaného prosincového zasedání zastupitelstva je následující:
+****** Předběžný program opozicí svolaného prosincového zasedání zastupitelstva je následující:
 
 1) Informace návrhu rozpočtu 2023 a jeho časový harmonogram
 

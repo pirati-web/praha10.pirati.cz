@@ -8,7 +8,7 @@ image: articles/2022/2022-07-29-mc-praha-10-usetri-miliony-ve-svych-skolach-a-sk
 tags:
 ---
 
-###### **Ve všech mateřských a základních škol, které zřizuje MČ Praha 10, bude fungovat technologie vzdáleného odečtu tepla, elektřiny, plynu a vody. Radnice Desítky i pražský Magistrát tak budou moci průběžně sledovat a optimalizovat spotřebu energií. Povede to k finančním úsporám a snižování emisí oxidu uhličitého.**
+****** **Ve všech mateřských a základních škol, které zřizuje MČ Praha 10, bude fungovat technologie vzdáleného odečtu tepla, elektřiny, plynu a vody. Radnice Desítky i pražský Magistrát tak budou moci průběžně sledovat a optimalizovat spotřebu energií. Povede to k finančním úsporám a snižování emisí oxidu uhličitého.**
 
 Už v roce 2018 desátá městská část optimalizovala spotřebu energií ve volnočasovém  [areálu Gutovka](https://www.gutovka.cz/), čímž jen v loňském roce ušetřila milion korun. V roce 2019 rozhodla o spuštění pilotního projektu moderního měření a regulace v objektech ZŠ Jakutská, ZŠ Eden, ZŠ Švehlova, ZŠ Zvonková a MŠ Dvouletky. Nyní bude součástí „centrálního energetického managementu“ všech 13 základních škol a 20 mateřinek, které Desítka zřizuje. Smlouvu se společností  [Operátor ICT](https://operatorict.cz/)  schválila tento týden Rada MČ Praha 10.
 

@@ -8,7 +8,7 @@ image: articles/2022/2022-06-29-zastupitelstvo-prahy-10-odvolalo-kvuli-kauze-doz
 tags:
 ---
 
-###### **Zastupitelstvo** **MČ Praha 10** **vyjádřilo na svém jednání v pondělí 27.6.2022 nedůvěru starostce Renatě Chmelové a místostarostovi Davidu Kašparovi z hnutí STAN a hlasovalo pro jejich odvolání. A to hlavně z důvodu jejich blízkých vazeb na vedení pražské organizace hnutí STAN.**
+****** **Zastupitelstvo** **MČ Praha 10** **vyjádřilo na svém jednání v pondělí 27.6.2022 nedůvěru starostce Renatě Chmelové a místostarostovi Davidu Kašparovi z hnutí STAN a hlasovalo pro jejich odvolání. A to hlavně z důvodu jejich blízkých vazeb na vedení pražské organizace hnutí STAN.**
 
 Piráti požadovali:
 

@@ -14,7 +14,7 @@ Všechna představení se odehrají v Malešickém parku. Promítání začíná
 
 Občerstvení na místě zajištěno. Stačí si jen vzít s sebou deku.
 
-###### **Program:**
+****** **Program:**
 
 14.07. ve 21:45 – Mimořádná událost  
 28.07. ve 21:30 – Hádkovi  

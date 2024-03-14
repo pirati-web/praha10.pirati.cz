@@ -9,18 +9,18 @@ tags:
 ---
 
 
-###### Dle našich informací přímo z koalice, by se dnes měla mimořádně sejít rada městské části, kde by se pod rouškou Vánoc měl odsouhlasit dodatek č.6 ke smlouvě na stavbu MŠ Bajkalská a cenu díla zvýšit o dalších cca 16.000.000,- Kč (sic!). (všechny částky budou uváděny bez DPH).
+****** Dle našich informací přímo z koalice, by se dnes měla mimořádně sejít rada městské části, kde by se pod rouškou Vánoc měl odsouhlasit dodatek č.6 ke smlouvě na stavbu MŠ Bajkalská a cenu díla zvýšit o dalších cca 16.000.000,- Kč (sic!). (všechny částky budou uváděny bez DPH).
 
-###### **Cena zakázky by tak vyrostla z původní předpokládané hodnoty 109.000.000,- Kč (bez DPH) až na cca 153.000.000,- Kč**
+****** **Cena zakázky by tak vyrostla z původní předpokládané hodnoty 109.000.000,- Kč (bez DPH) až na cca 153.000.000,- Kč**
 
--   ![👉](https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png)předpokládaná cena zakázky 109.000.000,- Kč
--   ![👉](https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png)sdružení firem „GEOSAN + VISTORIA – MŠ Bajkalská“ vyhrává podlimitní veřejnou zakázku za 128.926.466,-Kč
--   ![👉](https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png)následných 5 dodatků ke smlouvě postupně navyšuje cenu na 137.902.321,- Kč
--   ![👉](https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png)nyní je údajně na stole navýšení dokonce o 16.000.000,- Kč na celkovou cenu cca 154.000.000,- Kč
+-   předpokládaná cena zakázky 109.000.000,- Kč
+-   sdružení firem „GEOSAN + VISTORIA – MŠ Bajkalská“ vyhrává podlimitní veřejnou zakázku za 128.926.466,-Kč
+-   následných 5 dodatků ke smlouvě postupně navyšuje cenu na 137.902.321,- Kč
+-   nyní je údajně na stole navýšení dokonce o 16.000.000,- Kč na celkovou cenu cca 154.000.000,- Kč
 
 Místostarostka [Olga Koumarová](https://www.facebook.com/olga.koumarova.5?__cft__[0]=AZWYlKqFyhze8gyn7Pns4_5UgKjTMnazZ_VN6p6L0Kc_Y7HWnjtnoSXboTQFdNIkRAC5bXCkyN92vK5GXSjcvt9rzwkFTOpOY0N41myYIjrBx1ZDQyg5gGfLMwPrT1qxXrqFOY6HhU5NhE-rnUfeamLsf0t8ENR70Li-dSZM4pcfUewXyvBG_sn50GeBEgq94LKebgwEvxBsyhKq5hyfKqDW&__tn__=-]K-R) (Společně pro Prahu 10/ dříve ODS) se toto navýšení pokusila zařadit ihned na první zasedání rady 28.11:2022. Z neznámých důvodů byl programu stažen. Dnes je prý připraven znovu a minimálně jeden z členů rady se pro tuto kompenzaci bojí hlasovat.
 
-###### To vše za situace kdy Praha 10:
+****** To vše za situace kdy Praha 10:
 
 -   Nemá funkční kontrolní výbor a nelze ho svolat
 -   Nemá schválený rozpočet na příští rok a míří do provizoria

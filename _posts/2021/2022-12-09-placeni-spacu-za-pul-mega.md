@@ -8,7 +8,7 @@ image: articles/2022/2022-12-09-placeni-spacu-za-pul-mega.png
 tags:
 ---
 
-###### Žádáme  [Martin Valovič, starosta Prahy 10](https://www.facebook.com/ValovicPraha10/?__cft__[0]=AZWImZU_ltOKm7OOpA-Dvdor6yNBkVn0G7jC306w3jTHxz2dEnSPDWHUnHxk0lsu-hPShnlOIhs3UtPJKvtGVJmb0GykZJFwrXo96MELZrX-aff3K5Hqc9m21KSIKSCGKMgNaAg_7xG_Vhxfw49OPp0X_3pot_RreByPJIn1BMWBaKMp0ak34yKt3o3Kh-3dpMxO-ehQwpH50riwQ87qtw8ZUYctacN4qJPwvlm5tXcjsg&__tn__=kK-R)  a  [Tomáš Pek](https://www.facebook.com/TomasPekTOP09Praha10/?__cft__[0]=AZWImZU_ltOKm7OOpA-Dvdor6yNBkVn0G7jC306w3jTHxz2dEnSPDWHUnHxk0lsu-hPShnlOIhs3UtPJKvtGVJmb0GykZJFwrXo96MELZrX-aff3K5Hqc9m21KSIKSCGKMgNaAg_7xG_Vhxfw49OPp0X_3pot_RreByPJIn1BMWBaKMp0ak34yKt3o3Kh-3dpMxO-ehQwpH50riwQ87qtw8ZUYctacN4qJPwvlm5tXcjsg&__tn__=kK-R)  o okamžité zrušení nemravné objednávky na absolutně nekvalitní a nefunkční ostrahu objektu určeného k demolici za 514 182,- Kč/cca. měsíc.
+****** Žádáme  [Martin Valovič, starosta Prahy 10](https://www.facebook.com/ValovicPraha10/?__cft__[0]=AZWImZU_ltOKm7OOpA-Dvdor6yNBkVn0G7jC306w3jTHxz2dEnSPDWHUnHxk0lsu-hPShnlOIhs3UtPJKvtGVJmb0GykZJFwrXo96MELZrX-aff3K5Hqc9m21KSIKSCGKMgNaAg_7xG_Vhxfw49OPp0X_3pot_RreByPJIn1BMWBaKMp0ak34yKt3o3Kh-3dpMxO-ehQwpH50riwQ87qtw8ZUYctacN4qJPwvlm5tXcjsg&__tn__=kK-R)  a  [Tomáš Pek](https://www.facebook.com/TomasPekTOP09Praha10/?__cft__[0]=AZWImZU_ltOKm7OOpA-Dvdor6yNBkVn0G7jC306w3jTHxz2dEnSPDWHUnHxk0lsu-hPShnlOIhs3UtPJKvtGVJmb0GykZJFwrXo96MELZrX-aff3K5Hqc9m21KSIKSCGKMgNaAg_7xG_Vhxfw49OPp0X_3pot_RreByPJIn1BMWBaKMp0ak34yKt3o3Kh-3dpMxO-ehQwpH50riwQ87qtw8ZUYctacN4qJPwvlm5tXcjsg&__tn__=kK-R)  o okamžité zrušení nemravné objednávky na absolutně nekvalitní a nefunkční ostrahu objektu určeného k demolici za 514 182,- Kč/cca. měsíc.
 
 Platit dva spáče za půl mega z veřejných peněz?! Nemožné? Ale ano, s novou desítkovou koalicí je a evidentně bude leccos ještě nedávno nemyslitelné možné!
 
@@ -23,5 +23,5 @@ Uvedený půl milion může tedy být:
 
 Link na předmětnou objednávku:  [https://smlouvy.gov.cz/smlouva/22643233](https://smlouvy.gov.cz/smlouva/22643233?fbclid=IwAR2E3PLpzOgl9NxGOOFHl6oYDcEdiVmrZNqcX-VrhaI33vDo4LGcwhzW9h8)
 
-<video class="wp-video-shortcode" id="video-7075-1" width="640" height="368" preload="metadata" controls="controls"><source type="video/mp4" src="https://pirati10.cz/wp-content/uploads/2022/12/Ostraha.mp4?_=1" /><a href="https://pirati10.cz/wp-content/uploads/2022/12/Ostraha.mp4">https://pirati10.cz/wp-content/uploads/2022/12/Ostraha.mp4</a></video>
+<video class="wp-video-shortcode" id="video-7075-1" width="640" height="368" preload="metadata" controls="controls"><source type="video/mp4" src="https://pirati10.cz/wp-content/uploads/2022/12/Ostraha.mp4?_=1" />
 

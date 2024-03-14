@@ -9,7 +9,7 @@ tags:
 ---
 
 
-###### Milí sousedé,  
+****** Milí sousedé,  
   
 díky Vaší důvěře ve volbách v roce 2018 jsme získali možnost měnit poměry na radnici městské části Praha 10, které se do té doby nelichotivě přezdívalo „Zátoka sviní“.  
   
@@ -34,5 +34,5 @@ Budete tak mít záruku, že Praha 10 zůstane bez korupčních kauz i nadále.
 
 ----------
 
-###### Náš program naleznete  [**zde**](https://pirati10.cz/komunalni-volby-2022/program-pro-komunalni-volby-2022/).  
+****** Náš program naleznete  [**zde**](https://pirati10.cz/komunalni-volby-2022/program-pro-komunalni-volby-2022/).  
 Pirátské listy jsou  **[zde](https://pirati10.cz/piratske-listy/)**.

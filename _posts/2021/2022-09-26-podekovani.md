@@ -18,4 +18,4 @@ S ohledem na během volební kampaně pozitivně vnímaný pirátský SWAP jej v
 
 Vaši Piráti
 
-[#Držímekurz](https://www.facebook.com/hashtag/dr%C5%BE%C3%ADmekurz?__eep__=6&__cft__[0]=AZXCZaaQVCYPOhjfQFLGBjxxKCnRMsS-6lwOMdAjYrWNMNZGVLD1B4Lzbs-8tY-I8rfvZyZFppXpaSFbaP-JmBI01pAUzGKqXRFd71VehYPc3b48M1S31MjY5V2KnO_HvKF7qhs0DjZCsxWf2YIhISF3fnC0KrB4ddwuhJhAAcJ2N8dNLv20LO0tOR6H3EccuFdK3PG3vID1Da3XoHhPgr5R&__tn__=*NK-R)!
+[*Držímekurz](https://www.facebook.com/hashtag/dr%C5%BE%C3%ADmekurz?__eep__=6&__cft__[0]=AZXCZaaQVCYPOhjfQFLGBjxxKCnRMsS-6lwOMdAjYrWNMNZGVLD1B4Lzbs-8tY-I8rfvZyZFppXpaSFbaP-JmBI01pAUzGKqXRFd71VehYPc3b48M1S31MjY5V2KnO_HvKF7qhs0DjZCsxWf2YIhISF3fnC0KrB4ddwuhJhAAcJ2N8dNLv20LO0tOR6H3EccuFdK3PG3vID1Da3XoHhPgr5R&__tn__=*NK-R)!

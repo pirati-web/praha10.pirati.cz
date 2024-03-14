@@ -9,7 +9,7 @@ tags:
 ---
 
 
-###### Díky rozhodnutí radnice počet herních míst v Praze 10 průběžně klesá. K 31.7. 2022 ukončilo provoz další casino, tentokrát na Průběžné.
+****** Díky rozhodnutí radnice počet herních míst v Praze 10 průběžně klesá. K 31.7. 2022 ukončilo provoz další casino, tentokrát na Průběžné.
 
 K dnešnímu dni je na území naší městské části v provozu šest heren, což je o osm méně, než když jsme v roce 2018 na radnici vstupovali. Provoz poslední herny bude na základě konce platnosti povolení ukončen v březnu 2024. Poté bude Praha 10 zcela bez heren a casin. Tedy deset let poté, kdy se pro zavedení nulové tolerance hazardu vyslovilo v roce 2014 v referendu 83 % těch, kteří se referenda zúčastnili.
 

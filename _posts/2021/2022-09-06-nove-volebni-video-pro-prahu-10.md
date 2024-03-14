@@ -12,7 +12,7 @@ Máme odvahu řídit desítku správně, a proto se můžeme klidně vrátit k n
 
 Současnou Prahou 10 vás provede naše kandidátka na starostku Jana Komrsková, 1. místostarostka Prahy 10 .
 
-## Kudy naše cesta povede?
+** Kudy naše cesta povede?
 - Farmářské trhy na Kubánském náměstí
 - KC Eden
 - Strašnická škola

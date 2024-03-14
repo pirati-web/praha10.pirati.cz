@@ -12,4 +12,4 @@ Bereme na vědomí a respektujeme podpis Memoranda o spolupráci mezi Společně
 
 Jako nejsilnější opoziční klub jsme připraveni vést kontrolní výbor zastupitelstva.
 
-## Jsme vaší poslední pojistkou proti návratu “starých pořádků”.
+** Jsme vaší poslední pojistkou proti návratu “starých pořádků”.

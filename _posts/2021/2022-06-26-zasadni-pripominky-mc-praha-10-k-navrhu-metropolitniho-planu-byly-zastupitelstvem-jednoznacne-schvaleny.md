@@ -10,7 +10,7 @@ tags:
 
 V uplynulém týdnu předala  [Jana Komrsková, 1. místostarostka Prahy 10](https://www.facebook.com/komrskova.jana/?__cft__[0]=AZWqvhUr99wmusaGSsQYuWy2pkefKBUbULcig-37v0QXGCNfBQGTvnkVWNByP8laQZRAuJ-ZaTZvDH_1GEzbMvL-z-HavHHyIQVmIv9nONDl__QChsppXE7DPtzCy4CYaQGAdHyCAuDcQI5lN4lcMN3-m2jdPsl9DJYp4IXuOAj2lJaUSluJophEani99YhQi1tIulucTOPihSLWTRY8We77&__tn__=kK*F)  magistrátu soubor Zásadních připomínek k návrhu Metropolitního plánu, které schválilo naprostou většinou hlasů zastupitelstvo městské části na svém jednání 27.6.2022.
 
-###### Co je Metropolitní plán?
+****** Co je Metropolitní plán?
 
 Metropolitní plán je připravovaný nový územní plán sídelního útvaru hl. m. Prahy, pořizovaný od roku 2013.
 

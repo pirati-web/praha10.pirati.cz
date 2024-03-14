@@ -14,7 +14,7 @@ Podařilo se změnit tržní řád před  [Městská knihovna v Praze](https://w
 
 Prostoru mezi OC Cíl a knihovnou hodláme díky provozovateli občerstvení vdechnout nový život, aby zde vzniklo nové místo setkávání.
 
-###### Nejde jen o výši nájmu, ale také o kvalitu služeb!
+****** Nejde jen o výši nájmu, ale také o kvalitu služeb!
 
 Stejně jako u předchozí soutěže jsme stanovili následující kritéria:
 

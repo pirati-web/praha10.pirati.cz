@@ -8,7 +8,7 @@ image: articles/2022/2022-08-29-v-z8behlicich-je-nova-plocha-pro-micove-sporty.j
 tags:
 ---
 
-###### Ze záběhlického plácku využívaného na občasné protažení těla vzniká opravdové sportoviště! Plocha v Práčské ulici je nově zarovnaná, rozšířená a upravená, fotbal na zdejším hřišti tak získává nový rozměr. Městská část sem navíc zavěsila basketbalové koše a brzy přibydou sloupky na síť pro volejbal, tenis či nohejbal.
+****** Ze záběhlického plácku využívaného na občasné protažení těla vzniká opravdové sportoviště! Plocha v Práčské ulici je nově zarovnaná, rozšířená a upravená, fotbal na zdejším hřišti tak získává nový rozměr. Městská část sem navíc zavěsila basketbalové koše a brzy přibydou sloupky na síť pro volejbal, tenis či nohejbal.
 
 Místo nedaleko skautské klubovny původně fungovalo jako plac pro neorganizovanou hru míčových sportů. Desátá městská část ho již v minulosti doplnila o branky na fotbal a o hrazení, aby míče často nelétaly mimo hřiště.
 

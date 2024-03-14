@@ -14,4 +14,4 @@ V předchozím vyjádření jsme vás informovali, že jsme odmítli pouze form�
 Zodpovědně můžeme říct, že my jsme do vyjednávání vstupovali s požadavky, které odpovídaly našemu výsledku voleb a nebyl důvod z nich ustupovat.
 
 Nerespektujeme vyjednávací taktiku „_kdo chce méně, toho berem, ale vládnout budeme POUZE my_“, kterou nastolila koalice Společně pro Prahu 10. My jsme šli do politiky s tím, že chceme naši městskou část měnit k lepšímu, prosazovat náš program a nebýt za užitečné „_do počtu_“.  
-#Drzime kurz!
+*Drzime kurz!
