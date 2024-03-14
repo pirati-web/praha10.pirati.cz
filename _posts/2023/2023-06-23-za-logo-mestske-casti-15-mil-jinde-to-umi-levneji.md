@@ -8,7 +8,7 @@ image: articles/2023/2023-06-23-za-logo-mestske-casti-15-mil-jinde-to-umi-levnej
 tags:
 ---
 
-###### **Po 12 letech ožívá touha po vzniku loga městské části. Městský znak prý již a opět nestačí.**
+****** **Po 12 letech ožívá touha po vzniku loga městské části. Městský znak prý již a opět nestačí.**
 
 Občan se má díky logu s lokalitou více ztotožnit.
 
@@ -23,7 +23,7 @@ Nakonec pomoc – zvláště rodinám – v době krize před loňskými volbami
 
 Jistě se však najdou i tací, kteří touží po něčem líbivém, jako bylo před 12 roky navržené srdíčko. Aby si ujasnili, kam patří.
 
-###### **Jde to i (výrazně) levněji**
+****** **Jde to i (výrazně) levněji**
 
 Není bez zajímavosti, že tutéž činnost s totožným subjektem zvládli
 
@@ -32,6 +32,6 @@ Není bez zajímavosti, že tutéž činnost s totožným subjektem zvládli
 
 -   …. samozřejmě stále je tu možnost oslovit studenty středních a vysokých škol, jako před 12 roky.
 
-###### **Z důvodové zprávy:**
+****** **Z důvodové zprávy:**
 
-![](https://pirati10.cz/wp-content/uploads/2023/06/Visd02.jpg)
+

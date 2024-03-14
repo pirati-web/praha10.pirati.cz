@@ -8,7 +8,7 @@ image: articles/2023/2023-04-17-pekelny-kumulant-s-vyssim-platem-nez-ministr.png
 tags:
 ---
 
-###### **Bývá dobrým zvykem a součástí politické kultury, že pokud komunální politik získá uvolněnou funkci na hlavním městě, pak ve své domovské městské části buď jako uvolněný (čti plně placený) skončí a přenechá funkci kolegovi, případně ji vykonává jako neuvolněnou s násobně menším platem. Normální je nekumulovat. Ale to bychom nebyli na Praze 10, že?**
+****** **Bývá dobrým zvykem a součástí politické kultury, že pokud komunální politik získá uvolněnou funkci na hlavním městě, pak ve své domovské městské části buď jako uvolněný (čti plně placený) skončí a přenechá funkci kolegovi, případně ji vykonává jako neuvolněnou s násobně menším platem. Normální je nekumulovat. Ale to bychom nebyli na Praze 10, že?**
 
 Tomáš Pek (TOP09) už druhý měsíc vykonává paralelně funkci  [předsedy výboru územního rozvoje ZHMP s](https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=37329)  platem 106 tisíc korun a k tomu ještě zůstává [uvolněným místostarostou pro majetek na Praze 10](https://praha10.cz/vedeni-a-sprava-mc/rada-mc)  s platem 97 tisíc korun. A nepřipadá mu ani trochu divné, že v součtu pobírá vyšší plat než primátor! Za řádně odvedenou práci náleží řádná odměna, v tomto případě ale o řádně odvedené práci nemůže být řeč!
 

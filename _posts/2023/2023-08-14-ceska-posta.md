@@ -12,12 +12,12 @@ tags:
 
 K omezení dostupnosti poštovních služeb se pan starosta Valovič (ODS) vyjádřil opakovaně na jednání zastupitelstva MČ Praha 10.
 
-###### [**Poprvé 3. dubna**](https://praha10.cz/Portals/0/docs/RaZ/steno/s2022-2026/steno_3_ZMC.pdf?ver=2023-04-17-141350-280)
+****** [**Poprvé 3. dubna**](https://praha10.cz/Portals/0/docs/RaZ/steno/s2022-2026/steno_3_ZMC.pdf?ver=2023-04-17-141350-280)
 
 _„Dovolil bych si reagovat na tu poštu. Pane zastupiteli, nemusíte být zděšen, jak jste pravil, myslím si, že k tomu nemáte důvod, protože konáme.“ (…) „Samozřejmě je to velký problém, tíží nás to všechny samozřejmě, rušení všech poboček je za mě špatně, prostě bezbariérovost a tyto věci, víme, jakým způsobem je Eden vytížen, a to je věc, za kterou samozřejmě budeme bojovat.“  
 _
 
-###### [**Podruhé 26. června**](https://praha10.cz/Portals/0/docs/RaZ/steno/s2022-2026/steno_4_ZMC.pdf?ver=2023-07-12-130526-157)
+****** [**Podruhé 26. června**](https://praha10.cz/Portals/0/docs/RaZ/steno/s2022-2026/steno_4_ZMC.pdf?ver=2023-07-12-130526-157)
 
 V reakci na vystoupení občana, zástupce petice proti zrušení pošty v Počernické ulici v Malešicích. V rámci uvedené petice bylo během tří dnů sesbíráno 529 podpisů. Pan Valovič reagoval slovy:
 
@@ -58,7 +58,7 @@ Rámcová  [kalkulace](https://pirati10.cz/wp-content/uploads/2023/08/Prezentace
 
 6.1. Jaké konkrétní kroky a v jakém časovém horizontu budou za účelem obnovení dostupnosti poštovních služeb na území Prahy 10 následovat?
 
-###### **Jaké byly odpovědi?**
+****** **Jaké byly odpovědi?**
 
 Lakonicky řečeno, strohé.
 
@@ -74,6 +74,6 @@ Zatím se zdá, že ten „_boj_“ příliš litý nebyl.
 
 **Nabídková kalkulace pro Prahu 10 od České pošty, s.p.: [Prezentace PP+ Praha 10](https://pirati10.cz/wp-content/uploads/2023/08/Prezentace-PP-Praha-10.pdf).**
 
-![](https://pirati10.cz/wp-content/uploads/2023/08/CeskapostaII.png)
+
 
 

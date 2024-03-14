@@ -9,7 +9,7 @@ tags:
 ---
 
 
-###### **_Opoziční zastupitelé MČ Praha 10 žádají svolání zastupitelstva. Chtějí řešit nezákonné přisvojení si pravomocí předsedy kontrolního výboru Adamem Šilarem (KDU-ČSL) i jeho porušování usnesení zastupitelstva. Na programu je také kumulace uvolněných funkcí místostarosty Tomáše Peka (TOP 09) či manipulace s rozpočtem místostarostkou Olgou Koumarovou (ODS)._**
+****** **_Opoziční zastupitelé MČ Praha 10 žádají svolání zastupitelstva. Chtějí řešit nezákonné přisvojení si pravomocí předsedy kontrolního výboru Adamem Šilarem (KDU-ČSL) i jeho porušování usnesení zastupitelstva. Na programu je také kumulace uvolněných funkcí místostarosty Tomáše Peka (TOP 09) či manipulace s rozpočtem místostarostkou Olgou Koumarovou (ODS)._**
 
 _Není to poprvé, co opoziční zastupitelé zvažovali svolání mimořádného zastupitelstva. Už loni v prosinci bylo tématem neobsazení pozice předsedy kontrolního výboru či hrozba rozpočtového provizoria._
 

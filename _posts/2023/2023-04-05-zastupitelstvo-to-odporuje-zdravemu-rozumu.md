@@ -9,7 +9,7 @@ tags:
 ---
 
 
-###### **Zastupitelstvo, které se konalo v pondělí 3. 4. 2023, a které svolaly opoziční kluby Piráti Praha 10 a ANO, překonalo dva smutné rekordy. Bylo zatím nejdelší, trvalo od pondělní 12 hodiny do téměř 6 hodiny ranní. Tedy téměř 18 hodin. Koalicí předkládané materiály obsahovaly rekordní výskyt faktických i formálních chyb, které jsme pomáhali na místě vzdor předkladatelům opravovat.  
+****** **Zastupitelstvo, které se konalo v pondělí 3. 4. 2023, a které svolaly opoziční kluby Piráti Praha 10 a ANO, překonalo dva smutné rekordy. Bylo zatím nejdelší, trvalo od pondělní 12 hodiny do téměř 6 hodiny ranní. Tedy téměř 18 hodin. Koalicí předkládané materiály obsahovaly rekordní výskyt faktických i formálních chyb, které jsme pomáhali na místě vzdor předkladatelům opravovat.  
 Vítězným smolařem v disciplíně chybovosti se stal bez nejmenších pochyb místostarosta Tomáš Pek (TOP09). Chyby však obsahovala již samotná  [pozvanka_3_ZMC_3_4_2023](https://pirati10.cz/wp-content/uploads/2023/04/pozvanka_3_ZMC_3_4_2023.pdf) na jednání zastupitelstva v podobě neexistujícího zákona a chybného paragrafu. V zmatečném řízení schůze zas vynikal starosta Martin Valovič, který jednání několikrát i přes naše varování úspěšně zavedl do slepých uliček, z kterých se následně snažil nemotorně a zdlouhavě vycouvat. Finanční neznalost bez skrupulí přiznala místostarostka s gescí rozpočtu, Olga Koumarová (ODS). Předsedkyní Kontrolního výboru byla zvolena Radmila Kleslová (ANO).  
 **
 
@@ -50,4 +50,4 @@ I přes naši neutuchající dobrou vůli pomáhat odstraňovat enormní množst
 SPD téměř po celou dobu jednání hlasovalo svorně s koalicí, ostatně stejně jako na druhém i ustavujícím jednání. Jak poznamenal pan Nerušil z SPD: “_nejsou žádný pirátský béčk_o” (jak by také mohlo být béčkem něco, co není ani “ačkem” …?).  
 Možná se jednalo o jakýsi projev vděku za možnost oddávání pro zastupitele SPD, kterou však současně Rada MČ odepřela zastupitelce pirátské, viz obrázek níže. Rada jí tak znemožnila plně plnit dle zákona složený  [slib zastupitelky](https://www.zakonyprolidi.cz/cs/2000-128?text=69), že bude  svoji funkci vykonávat v zájmu obce a jejích občanů  (snoubenců, kteří ji o oddání požádali). Rada tedy porušila zákon, krom toho projevila diskriminační sklony.
 
-![](https://pirati10.cz/wp-content/uploads/2023/04/odd%C3%A1v%C3%A1n%C3%AD-650x602.png)
+

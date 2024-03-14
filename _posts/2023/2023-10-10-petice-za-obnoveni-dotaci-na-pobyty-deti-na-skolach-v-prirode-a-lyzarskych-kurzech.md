@@ -32,7 +32,7 @@ Pobyty představují pro děti nejen vzdělávací a sportovní přínos, ale ta
 
 -   **Petice ke stažení: [PETICE_ŠvP_a_lyzarske_kurzy.docx](https://pirati10.cz/wp-content/uploads/2023/10/PETICE_SvP_a_lyzarske_kurzy.docx.pdf)**.
 
-###### (Na převzetí vyplněných, resp. podepsaných petičních archů se ochotně individuálně domluvíme, viz kontaktní údaje výše).
+****** (Na převzetí vyplněných, resp. podepsaných petičních archů se ochotně individuálně domluvíme, viz kontaktní údaje výše).
 
 -   **Elektronická forma petice k podpisu:** přes Portál občana, resp. Identitu občana: [**zde**](https://portal.gov.cz/e-petice/494-petice-za-obnoveni-dotaci-na-pobyty-deti-na-skolach-vprirode-a-lyzarskych-kurzech).
 
@@ -49,6 +49,6 @@ Mgr. David Satke, Vršovická 842/35, Praha 10, TČ: 776 695 226,  [david.satke@
 
 Zastupovat petiční výbor při jednání se státními orgány je oprávněn: Mgr. David Satke.
 
-![Zdroj: rodiče žáků ZŠ z Prahy 10](https://pirati10.cz/wp-content/uploads/2023/10/Lyzak-814x1024.jpg)
+
 
 Zdroj: rodiče žáků ZŠ z Prahy 10
