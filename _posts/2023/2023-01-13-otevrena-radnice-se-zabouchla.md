@@ -4,7 +4,7 @@ category: blog
 title: 'Otevřená radnice se zabouchla!'
 layout: post
 author: mediální tým
-image: articles/2023/2023-01-13-otevrena-radnice-se-zabouchla.png
+image: articles/2023/2023-01-13-nova-otevrena-radnice-se-zabouchla.png
 tags:
 ---
 
