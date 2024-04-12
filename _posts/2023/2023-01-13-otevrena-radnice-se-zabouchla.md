@@ -8,7 +8,7 @@ image: articles/2023/2023-01-13-otevrena-radnice-se-zabouchla.png
 tags:
 ---
 
-****** Věděli jste, že městské části vládne starosta Martin Valovič (Společně pro P10, dříve ODS), zvolený do funkce i hlasy místní buňkou SPD Tomia Okamury a městem placeného přeběhlíka z ANO do ODS? Bohužel, po 4 letech, kdy Praha 10 rostla ve všech statistikách transparentnosti a udržitelného rozvoje, nastal prudký pád!
+**Věděli jste, že městské části vládne starosta Martin Valovič (Společně pro P10, dříve ODS), zvolený do funkce i hlasy místní buňkou SPD Tomia Okamury a městem placeného přeběhlíka z ANO do ODS? Bohužel, po 4 letech, kdy Praha 10 rostla ve všech statistikách transparentnosti a udržitelného rozvoje, nastal prudký pád!**
 
 Starostou slíbené prosincové zastupitelstvo se nekonalo, městská část začala letošní rok v rozpočtovém provizoriu, v komisích a výborech dostalo nepoměrně velké zastoupení SPD Tomia Okamury, koaliční zastupitelé si schválili rekordní množství placených postů, v dozorčí radě městské akciové společnosti si několikanásobně zvýšili odměny, kontrolní výbor zastupitelstva je nefunkční a naši zastupitelé nebyli puštěni ani na jednání Rady městské části.
 
