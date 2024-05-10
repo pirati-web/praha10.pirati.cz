@@ -4,7 +4,7 @@ category: blog
 title: 'Proč chce Praha 10 v Malešickém parku stavět rozhlednu?'
 layout: post
 author: mediální tým
-image: articles/2024/2024-05-10-proc-chce-praha-10-v-malesickem-parku-stavet-rozhlednu.jpg
+image: articles/2024/2024-05-10-proc-chce-praha-10-v-malesickem-parku-stavet-rozhlednu.png
 tags:
 ---
 
