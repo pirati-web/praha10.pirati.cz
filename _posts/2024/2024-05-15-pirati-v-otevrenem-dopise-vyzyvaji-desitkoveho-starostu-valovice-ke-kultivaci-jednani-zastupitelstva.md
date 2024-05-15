@@ -7,6 +7,7 @@ author: mediální tým
 image: articles/2024/2024-05-15-pirati-v-otevrenem-dopise-vyzyvaji-desitkoveho-starostu-valovice-ke-kultivaci-jednani-zastupitelstva.jpg
 tags:
 ---
+
 Vážený pane starosto Valoviči,  
 Vážení členové rady městské části Praha 10,
 
