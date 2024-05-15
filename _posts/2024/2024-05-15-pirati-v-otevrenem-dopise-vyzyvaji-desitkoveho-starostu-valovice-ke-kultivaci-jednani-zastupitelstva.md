@@ -4,7 +4,7 @@ category: blog
 title: 'Piráti v otevřeném dopise vyzývají desítkového starostu Valoviče ke kultivaci jednání zastupitelstva'
 layout: post
 author: mediální tým
-image: articles/2024/2024-05-15-pirati-v-otevrenem-dopise-vyzyvaji-desitkoveho-starostu-valovice-ke-kultivaci-jednani-zastupitelstva.png
+image: articles/2024/2024-05-15-pirati-v-otevrenem-dopise-vyzyvaji-desitkoveho-starostu-valovice-ke-kultivaci-jednani-zastupitelstva.jpg
 tags:
 ---
 Vážený pane starosto Valoviči,  
