@@ -4,7 +4,7 @@ category: blog
 title: 'Piráti v otevřeném dopise vyzývají desítkového starostu Valoviče ke kultivaci jednání zastupitelstva'
 layout: post
 author: mediální tým
-image: assets/img/2024/2024-05-15-proc-chce-praha-10-v-malesickem-parku-stavet-rozhlednu2.png
+image: articles/2024/2024-05-15-proc-chce-praha-10-v-malesickem-parku-stavet-rozhlednu2.png
 tags:
 ---
 
