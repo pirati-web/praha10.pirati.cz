@@ -8,7 +8,7 @@ image: articles/2024/2024-06-05-jaka-budoucnost-ceka-kultovni-barcu.jpg
 tags:
 ---
 
-###### **KD Barikádníků se podařilo v roce 2022 zachránit před [odsvěřením](https://www.facebook.com/photo/?fbid=1468376386897382&set=a.458982864503411)  ze správy MČ Praha 10 do soukromých rukou. Odsvěření prosazoval zastupitel D. Kašpar (VLASTAN). Další kroky pro záchranu „Barči“ v tomto volebním období nenastaly. Budova se nachází ve špatném technickém stavu.**
+###### **KD Barikádníků se podařilo v roce 2022 zachránit před [odsvěřením](https://www.facebook.com/photo/?fbid=1468376386897382&set=a.458982864503411)  ze správy MČ Praha 10. Odsvěření prosazoval zastupitel D. Kašpar (VLASTAN). Další kroky pro záchranu „Barči“ v tomto volebním období nenastaly. Budova se nachází ve špatném technickém stavu.**
 
 Ve  [zprávě](https://smlouvy.gov.cz/smlouva/25944271?backlink=b7it6)  o průzkumných pracích a posouzení KD Barikádníků z prosince 2023, kterou přikládáme na konec článku, se uvádí:
 
